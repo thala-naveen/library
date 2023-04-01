@@ -1,6 +1,6 @@
 "use strict";
 
-var mysql = require("mysql");
+var mysql = require("mysq2");
 
 var pool = mysql.createPool({
   host: process.env.MYSQLHOST || "containers-us-west-72.railway.app",

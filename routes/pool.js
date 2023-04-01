@@ -1,4 +1,4 @@
-var mysql = require("mysql");
+var mysql = require("mysq2");
 var pool = mysql.createPool({
   host: process.env.MYSQLHOST || "containers-us-west-72.railway.app",
   port:process.env.MYSQLPORT || 7610,
@@ -7,5 +7,7 @@ var pool = mysql.createPool({
   database: process.env.MYSQLDATABASE || "railway",
   connectionLimit: 100,
 });
+
+
 
 module.exports = pool;
