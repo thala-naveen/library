@@ -901,7 +901,7 @@ router.get('/showusers',function(req,res){
 })
 
 router.post('/checkadmin',function(req,res){
-    pool.query('select * from library.admin where adminemail=?',[req.body.adminemail.trim()],function(error,result){
+    pool.query('select * from admin where adminemail=?',[req.body.adminemail.trim()],function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`);
