@@ -1,0 +1,219 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration</title>
+  <style>
+    .card-registration .select-input.form-control[readonly]:not([disabled]) {
+      font-size: 1rem;
+      line-height: 2.15;
+      padding-left: .75em;
+      padding-right: .75em;
+    }
+
+    .card-registration .select-arrow {
+      top: 13px;
+    }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <!-- <link rel='stylesheet' href='/stylesheets/style.css' /> -->
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+  <!-- MDB -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/5.0.0/mdb.min.css" rel="stylesheet" />
+  <!-- MDB -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/5.0.0/mdb.min.js"></script>
+  <!--CityList-->
+  <script src="/javascripts/fillCity.js"></script>
+  <script src="/javascripts/ip.js"></script>
+  <script>
+      
+  </script>
+</head>
+
+<body>
+
+  <form action="/adduser" method="post" enctype="multipart/form-data">
+    <section class="h-100 bg-dark">
+      <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center h-100">
+          <div class="col">
+            <div class="card card-registration my-4">
+              <div class="row g-0">
+                <div class="col-xl-6 d-none d-xl-block">
+                  <img src="/images/libraryimg3.jpg"
+                    alt="Sample photo" class="img-fluid"
+                    style="border-top-left-radius: .25rem; border-bottom-left-radius: .25rem;" />
+                </div>
+             
+                <div class="col-xl-6">
+                  <div class="card-body p-md-5 text-black">
+                    <h3 class="mb-5 text-uppercase">Student registration form</h3>
+                    <div>
+                      <div class="col-md-12 mb-4">
+                        <img src="<%=data.picture%>" class="rounded-circle" alt="profilepicture" name="profilepicture">
+                        <input type="hidden" name="profilepic" id="profilepic" value="<%=data.picture%>">
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-md-6 mb-4">
+                        <div class="form-outline">
+                          <input type="text" id="firstname1" name="firstname1" class="form-control form-control-lg" value="<%=data.given_name%>" readonly/>
+                          <label class="form-label" for="firstname1">First name</label>
+                        </div>
+                      </div>
+                      <div class="col-md-6 mb-4">
+                        <div class="form-outline">
+                          <input type="text" id="secondname" name="secondname" class="form-control form-control-lg" value="<%=data.family_name%>" readonly/>
+                          <label class="form-label" for="secondname">Last name</label>
+                        </div>
+                      </div>
+                    </div>
+                      <input type="hidden" class="userip" name="userip" id="">
+                    <div class="row">
+                      <div class="col-md-12 mb-4">
+                        <div class="form-outline">
+                          <input type="text" id="emailid" name="useremailid" class="form-control form-control-lg" value="<%=data.email%>" readonly/>
+                          <label class="form-label" for="emailid">college id</label>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="row">
+                      <div class="col-md-12 mb-4">
+                        <div class="form-outline">
+                          <input type="hidden" id="role" name="role" class="form-control form-control-lg" value="<%=role%>" readonly/>
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="col-md-12 mb-4">
+                      <div class="form-outline">
+                        <input type="text" id="firstname" name="firstname" class="form-control form-control-lg" required value="<%=data.given_name%>" <%=role=='staff'?'':'readonly'%>/>
+                        <label class="form-label" for="firstname">Library Card Number</label>
+                      </div>
+                    </div>
+                    <div class="form-outline mb-4">
+                      <input type="date" id="dob" class="form-control form-control-lg" name="dob" required/>
+                      <label class="form-label" for="dob">DOB</label>
+                    </div>
+                    <div id="proff">
+                    <div class="form-outline mb-4">
+                      <input type="text" id="address" name="address" class="form-control form-control-lg" maxlength="100" required/>
+                      <label class="form-label" for="address">Address</label>
+                    </div>
+  
+                    <div class="d-md-flex justify-content-start align-items-center mb-4 py-2">
+  
+                      <h6 class="mb-0 me-4">Gender: </h6>
+  
+                      <div class="form-check form-check-inline mb-0 me-4">
+                        <input class="form-check-input" type="radio" name="gender" id="femaleGender" value="Female" required/>
+                        <label class="form-check-label" for="femaleGender">Female</label>
+                      </div>
+  
+                      <div class="form-check form-check-inline mb-0 me-4">
+                        <input class="form-check-input" type="radio" name="gender" id="maleGender" value="Male" required/>
+                        <label class="form-check-label" for="maleGender">Male</label>
+                      </div>
+  
+                      <div class="form-check form-check-inline mb-0">
+                        <input class="form-check-input" type="radio" name="gender" id="otherGender"value="Other" required/>
+                        <label class="form-check-label" for="otherGender">Other</label>
+                      </div>
+  
+                    </div>
+  
+                    <div class="row">
+                      <div class="col-md-6 mb-4">
+  
+                        <select class="select form-control" id="statename" name="state" required>
+                          <option value="" disabled selected>Select State</option>
+                          <% states.map((item)=>{ %>
+                          <option value="<%=item.countryCode%>.<%=item.isoCode%>.<%=item.name%>"><%=item.name%></option>
+                          <% }) %> 
+                        </select>
+  
+                      </div>
+                      <div class="col-md-6 mb-4">
+  
+                        <select class="select form-control" id="cityname" name="city" required>
+                          <option value="" disabled selected>Select City</option>
+                          
+                        </select>
+  
+                      </div>
+                    </div>
+  
+                    
+  
+                    <div class="row">
+                      <div class="col-md-6 mb-4">
+                        
+                          <select class="select form-control" id="course" name="course" required>
+                            <option value="" disabled selected>Select Course</option>  
+                          </select>
+                        
+                      </div>
+                      <div class="col-md-6 mb-4">
+                        
+                          <select class="select form-control" id="branch" name="branch" required>
+                            <option value="" disabled selected>Select Branch</option>
+                          </select>  
+                       
+                      </div>
+                    </div>
+
+                    <div class="form-outline mb-4">
+                      <input type="number" min="1" max="10" id="Semester" class="form-control form-control-lg" name="semester" required/>
+                      <label class="form-label" for="Semester">Semester</label>
+                    </div>
+                    
+                    <div class="mb-5">
+                      <hr width="100%">
+                    </div>
+                    <div>
+                      <h6>Set your password for login (min 8 chars)</h6>
+                    </div>
+                  </div>
+                    <div class="form-outline mb-4">
+                      <input type="password" id="password" name="password" class="form-control form-control-lg" minlength="8" required/>
+                      <label class="form-label" for="password">Set Password</label>
+                    </div>
+  
+                    <div class="form-outline mb-4">
+                      <input type="password" id="confirmPassword" name="confirmPassword" class="form-control form-control-lg" required onkeyup="check()" onkeydown="check()"/>
+                      <label class="form-label" for="confirmPassword">Confirm Password</label>
+                      
+                    </div>
+                    <small id="msg"></small>
+                    <br>
+                    <div class="form-check form-check-inline">
+                      <input class="form-check-input" type="checkbox" id="terms-checkbox" value="" onchange="check()" />
+                      <label class="form-check-label" for="terms-checkbox">All the details filled are correct<br>I agree to <a href="#">terms and conditions</a> of Library MITS Gwalior</label>
+                    </div>
+  
+                    <div class="d-flex justify-content-end pt-3">
+                      <button type="reset" class="btn btn-light btn-lg">Reset all</button>
+                      <button type="submit" id="submit-btn" class="btn btn-warning btn-lg ms-2">Submit form</button>
+                    </div>
+                  </div>
+                </div>
+               
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </form>
+
+</body>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/5.0.0/mdb.min.js"></script>
+
+</html>

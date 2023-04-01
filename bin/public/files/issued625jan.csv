@@ -1,0 +1,877 @@
+issuedate,barcode,title,author,cardnumber,surname
+2023-01-06 12:10:52,SC004345,Theory Of Machines,"Khurmi, R.S.",0901AU211015,SHIVANSH SHIVHARE
+2023-01-06 12:51:22,SC020407,Process Modeling Simulation & Control For Chemical Engineers,"Luyben, W.L",0901CM201001,Aarya Goyal
+2023-01-06 12:51:44,SC015313,Heat and Mass Transfer,"Kumar, D.S.",0901CM201030,Ram Sharma
+2023-01-06 12:54:46,SC031379,Artificial Intelligence,Rich / Knight,0901EO201041,Pranjul Jain
+2023-01-06 12:55:32,SC026983,CMOS VLSI Design,Weste/ Banerjee,0901EC201138,Yash Agrawal
+2023-01-06 12:55:53,SC026988,CMOS VLSI Design,Weste/ Banerjee,0901EC201137,Vivek Sharma
+2023-01-06 12:56:23,SC027018,CMOS VLSI Design,Weste/ Banerjee,0901EC201091,Raj Pahariya
+2023-01-06 14:41:38,SC019634,Advanced Mechanical Vibration,"Dukkipati , R.V.",0901ME201057,Chiranjeev Kumar Singh
+2023-01-06 14:41:49,TP002792,Referigeration and Air Conditioning,Arora C P,0901ME201057,Chiranjeev Kumar Singh
+2023-01-06 15:06:51,SC031580,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201064,Chand
+2023-01-06 15:06:58,SC028762,Design of Steel Structures,"Bhavikatti , S.S.",0901CE201064,Chand
+2023-01-06 15:07:18,TP003344,Limit State Design of Steel Structure,Duggal S K,0901CE201103,Chauhan
+2023-01-06 15:07:26,SC031571,Estimating  Costing and Valuation,Rangwala,0901CE201103,Chauhan
+2023-01-06 15:31:22,SC024244,Refrigeration & Air Conditioning,"Arora, C.P.",0901ME201061,Deepesh Rathore
+2023-01-06 15:31:34,LG033462,Refrigeration and Air Conditioning,Arora R C,0901ME201061,Deepesh Rathore
+2023-01-06 15:31:58,SC009001,Refrigeration and Air Conditioning,"Khurmi, R.S.",0901ME201061,Deepesh Rathore
+2023-01-06 15:32:05,SC019598,Mechanical Vibrations,"Rao, J.S./Gupta , K.",0901ME201061,Deepesh Rathore
+2023-01-06 15:32:17,SC025958,Mechanical Vibration,"Rao , S.S.",0901ME201061,Deepesh Rathore
+2023-01-06 15:43:19,SC036069,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM201042,Yash Tiwari
+2023-01-06 15:43:25,TP000156,Chemical Equipment Design,Bhattacharya B C,0901CM201042,Yash Tiwari
+2023-01-06 15:43:32,TP002856,Process Systems Analysis and Control,Coughanowr D R,0901CM201042,Yash Tiwari
+2023-01-06 15:52:34,SC013391,Artifical Intelligence,"Rich, E",0901EC201091,Raj Pahariya
+2023-01-06 15:52:44,SC010434,Digital Signal Processing,Proakis/Manolakis,0901EC201091,Raj Pahariya
+2023-01-06 15:53:10,SC010429,Digital Signal Processing,Proakis/Manolakis,0901EC201137,Vivek Sharma
+2023-01-06 15:53:32,SC029952,Artificial Intelligence,Rich / Knight,0901EC201138,Yash Agrawal
+2023-01-06 15:53:50,SC010437,Digital Signal Processing,Proakis/Manolakis,0901EC201138,Yash Agrawal
+2023-01-06 15:54:08,SC029953,Artificial Intelligence,Rich / Knight,0901EC201137,Vivek Sharma
+2023-01-06 16:25:58,ST030299,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221027,AYUSH RATNAKAR
+2023-01-06 16:58:32,SC028046,Design of Steel Structures,"Subramanian , N.",0901CE201085,Rai
+2023-01-06 16:59:00,SC027583,Basic VLSI Design,"Pucknell, D.A.",0901EC201037,Chetna Gour
+2023-01-06 16:59:06,TP002142,Data Structures and Algorithms,Pai G A V,0901EC201037,Chetna Gour
+2023-01-06 16:59:16,SC031122,Discrete Mathematics For Computer Science & Mathematicians,"Mott, J.L.",0901EC201037,Chetna Gour
+2023-01-09 11:03:35,TP001403,Higher Engineering Mathematics,"Grewal, B S",2K12S069,Mahesh Ohja
+2023-01-10 10:13:26,SC029831,Computer Networks,"Tanenbaum , A.S.",0901CD223D02,MANISHA TIWARI
+2023-01-10 10:13:33,SC005478,Software Engineering,"Pressman, R",0901CD223D02,MANISHA TIWARI
+2023-01-10 10:13:54,SC021211,Sewage Disposal & Air Pollution Engineering,"Garg, S.K.",0901CE201008,Kumar
+2023-01-10 10:14:08,SC031578,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201008,Kumar
+2023-01-10 10:14:15,TP003373,Limit State Design of Steel Structure,Duggal S K,0901CE201008,Kumar
+2023-01-10 10:42:42,TP004415,Microprocessor The 8086/8088,Bahadure N B,0901EE211028,ARYAN MISHRA
+2023-01-10 10:42:50,TP004623,Electrical Machines -1,Bakshi M V,0901EE211028,ARYAN MISHRA
+2023-01-10 10:43:00,SC005554,Power System Engineering,Nagrath,0901EE211028,ARYAN MISHRA
+2023-01-10 10:49:54,SC026826,Modern Control Engineering,Ogata K.,0901EC211013,ADITYA VERMA
+2023-01-10 10:50:08,SC005431,C++ Programming Language,"Stroustrup, B",0901EC211013,ADITYA VERMA
+2023-01-10 10:53:14,SC030334,Sewage Disposal And Air Pollution Engineering,"Garg , S.K.",0901CE201026,Sharma
+2023-01-10 10:53:19,TP003360,Limit State Design of Steel Structure,Duggal S K,0901CE201026,Sharma
+2023-01-10 10:53:28,SC024691,Estimating and Costing in Civil Engineering,"Dutta, B.N.",0901CE201026,Sharma
+2023-01-10 10:53:41,TP003342,Limit State Design of Steel Structure,Duggal S K,0901CE201023,Yadav
+2023-01-10 10:54:04,SC024694,Estimating and Costing in Civil Engineering,"Dutta, B.N.",0901CE201023,Yadav
+2023-01-10 10:57:26,SC013517,Electric Machines,Kothari D P,0901EE211104,SHASHANK CHANDRAVANSHI
+2023-01-10 10:57:35,LG033428,Power System Analysis & Design,Gupta B R,0901EE211104,SHASHANK CHANDRAVANSHI
+2023-01-10 10:57:44,TP004667,Electrical Machines -1,Bakshi M V,0901EE211104,SHASHANK CHANDRAVANSHI
+2023-01-10 10:58:04,SC010488,Introduction to Microprocessors,"Mathur, Aditya P.",0901EE211104,SHASHANK CHANDRAVANSHI
+2023-01-10 10:58:18,SC008486,Power System Engineering,Nagrath/Kothari,0901EE211012,AKSHAT PORWAL
+2023-01-10 10:58:24,TP004411,Microprocessor The 8086/8088,Bahadure N B,0901EE211012,AKSHAT PORWAL
+2023-01-10 10:58:30,TP004638,Electrical Machines -1,Bakshi M V,0901EE211012,AKSHAT PORWAL
+2023-01-10 11:02:10,LG033427,Power System Analysis & Design,Gupta B R,0901EE211107,SHIVAM SINGH
+2023-01-10 11:02:19,SC022407,Electric Machines,Kothari/Nagrath,0901EE211107,SHIVAM SINGH
+2023-01-10 11:02:25,TP004669,Electrical Machines -1,Bakshi M V,0901EE211107,SHIVAM SINGH
+2023-01-10 11:02:32,SC017138,Microprocessors,Gilmore,0901EE211107,SHIVAM SINGH
+2023-01-10 11:04:40,SC013713,Communication Systems,"Haykin, Simon",0901EC211136,VIVEK CHOURE
+2023-01-10 11:04:49,SC026843,Automatic Control Systems,"Kuo, B.C.",0901EC211136,VIVEK CHOURE
+2023-01-10 11:05:09,LG033348,8051 Microcontroller,"Udayashankarav, V",0901EE211051,HARSHIT SHRIVASTAVA
+2023-01-10 11:05:17,SC030263,Microprocessor and Its Applications,Theagarajan R.,0901EE211051,HARSHIT SHRIVASTAVA
+2023-01-10 11:05:24,LG033426,Power System Analysis & Design,Gupta B R,0901EE211051,HARSHIT SHRIVASTAVA
+2023-01-10 11:05:34,SC025243,Electric Machines,Kothari/Nagrath,0901EE211051,HARSHIT SHRIVASTAVA
+2023-01-10 11:05:40,TP001380,Higher Engineering Mathematics,"Grewal, B S",0901EE211051,HARSHIT SHRIVASTAVA
+2023-01-10 11:06:05,SC010826,Schaums Discrete Mathematics,"Lipschutz, A",0901CS211089,RAHUL KUMAR RATHORE
+2023-01-10 11:06:10,TP002255,Database System Concepts,Silberschatz A,0901CS211089,RAHUL KUMAR RATHORE
+2023-01-10 11:08:02,TP006386,Electronic Devices and Circuits,Millman & Halkias,0901EC211013,ADITYA VERMA
+2023-01-10 11:09:02,SC023446,Microprocessor & Microcontrollers,"Kant, K.",0901EE211125,VAISHALI GAUR
+2023-01-10 11:09:13,TP004656,Electrical Machines -1,Bakshi M V,0901EE211125,VAISHALI GAUR
+2023-01-10 11:13:00,SC022573,Power System Engineering,Kothari/Nagrath,0901EE211020,ANSHIKA SHARMA
+2023-01-10 11:13:06,TP004643,Electrical Machines -1,Bakshi M V,0901EE211020,ANSHIKA SHARMA
+2023-01-10 11:13:42,SC022410,Electric Machines,Kothari/Nagrath,0901EE211083,PRIYANSHU
+2023-01-10 11:20:27,SC010816,Elements of Discrete Mathematics,"Liu, C L",0901CS211030,ASTHA SHRIVASTAVA
+2023-01-10 11:20:32,TP002341,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211030,ASTHA SHRIVASTAVA
+2023-01-10 11:20:39,LG031999,Computer Networks,"Tanenbaum, A S",0901CS211030,ASTHA SHRIVASTAVA
+2023-01-10 11:20:53,SC005966,Elements of Discrete Mathematics,"Liu, C L",0901CS211024,ARSHITA GARG
+2023-01-10 11:20:58,TP002340,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211024,ARSHITA GARG
+2023-01-10 11:21:06,SC023158,Data Communication and Networking,"Forouzan, B.A.",0901CS211024,ARSHITA GARG
+2023-01-10 11:21:22,SC032214,Discrete Mathematics,Liu C.L,0901CS211062,KRATIKA MAHESHWARI
+2023-01-10 11:21:31,SC030048,Introduction to Languages and theory of Computation,Martin J.C.,0901CS211062,KRATIKA MAHESHWARI
+2023-01-10 11:21:41,SC024725,Data Communication and Networking,"Forouzan , B.A.",0901CS211062,KRATIKA MAHESHWARI
+2023-01-10 11:21:57,SC022459,Electrical Power Systems,"Wadha, C.L.",0901EE211083,PRIYANSHU
+2023-01-10 11:23:23,SC029946,8051 Microcontroller,"Udayashankara , V.",0901EE211104,SHASHANK CHANDRAVANSHI
+2023-01-10 11:25:16,TP006242,Data Communications and Networking,Forouzan,0901CS211106,SHREYA SINGH
+2023-01-10 11:25:41,TP002310,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211106,SHREYA SINGH
+2023-01-10 11:25:52,SC006733,Introduction to Database Systems,"Date, C.J.",0901CS211106,SHREYA SINGH
+2023-01-10 11:26:08,SC008001,Introduction to Database Systems,"Date, C.J.",0901CS211109,SNEHA AGRAWAL
+2023-01-10 11:26:17,SC031186,Discrete Mathematics,"Liu , C.L.",0901CS211109,SNEHA AGRAWAL
+2023-01-10 11:26:25,TP002246,Database System Concepts,Silberschatz A,0901CS211109,SNEHA AGRAWAL
+2023-01-10 11:43:28,SC029239,Discrete Mathematics,"Liu , C.L.",0901CS211065,MAITHILI DESHPANDE
+2023-01-10 11:43:32,TP002342,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211065,MAITHILI DESHPANDE
+2023-01-10 11:43:42,SC023483,Data Communication and Networking,"Forouzan, B.A.",0901CS211065,MAITHILI DESHPANDE
+2023-01-10 11:43:51,LG031781,Software Engineering,"Pfleeger , Lawrence shori",0901CS211065,MAITHILI DESHPANDE
+2023-01-10 11:43:55,TP002280,Database System Concepts,Silberschatz A,0901CS211065,MAITHILI DESHPANDE
+2023-01-10 11:44:10,SC003649,The Art Of Computer Programming Fundamental Algorithms,Kunth D.E.,0901MC211040,MEENU SONI
+2023-01-10 11:44:36,TP005116,Nises's Control Systems Engineering,Gupta Rajeev,0901EC211098,RAJAT SADANA
+2023-01-10 11:44:43,SC015760,Analog Electronics,Maheshwari,0901EC211098,RAJAT SADANA
+2023-01-10 11:45:33,SC029740,Analog Electronics,"Maheshwari , L.K.",0901EC211138,YASHASWINI TYAGI
+2023-01-10 11:45:40,TP005104,Nises's Control Systems Engineering,Gupta Rajeev,0901EC211138,YASHASWINI TYAGI
+2023-01-10 11:48:41,TP001604,Soil Mechanics and Foundations,Punamia B C,0901CE211073,MAHENDRA SINGH PAL
+2023-01-10 11:50:28,SC006708,Linear Control Systems,"Manke, B.S.",0901EC211097,PRIYANSI SINGH
+2023-01-10 12:06:31,TP003215,Basic Structural Analysis,Reddy C S,0901CE211083,NIKHIL KUMAR GUPTA
+2023-01-10 12:06:41,TP001072,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211083,NIKHIL KUMAR GUPTA
+2023-01-10 12:06:56,SC010280,Basic and Applied Science Soil Mechanics,Gopal Ranjan,0901CE211083,NIKHIL KUMAR GUPTA
+2023-01-10 12:07:19,SC011804,Theory of Structure,"Punmia, B C",0901CE211084,NIKHIL KUSHWAHA
+2023-01-10 12:07:28,SC009368,Soil Mechanics and Foundation Engineering,"Arora, K.R.",0901CE211084,NIKHIL KUSHWAHA
+2023-01-10 12:23:33,TP001626,Soil Mechanics and Foundations,Punamia B C,0901CE211058,HARSHIT RATHOR
+2023-01-10 12:23:50,LG008717,Theory of Structures,Coultas,0901CE211025,ANUJ GUPTA
+2023-01-10 12:23:58,SC025519,Irrigation Engineering,Sharma/Sharma,0901CE211025,ANUJ GUPTA
+2023-01-10 12:24:14,SC017466,Theory Of Structure,Ramamrutham S.,0901CE211073,MAHENDRA SINGH PAL
+2023-01-10 12:24:33,SC023424,Analysis of Structures,Thandavamoorthy,0901CE211072,MADHVENDRA SONI
+2023-01-10 12:24:38,TP001607,Soil Mechanics and Foundations,Punamia B C,0901CE211072,MADHVENDRA SONI
+2023-01-10 12:25:17,TP001615,Soil Mechanics and Foundations,Punamia B C,0901CE211086,NIKHIL RAJORIYA
+2023-01-10 12:39:56,SC008969,Basic Structural Analysis,"Reddy, C.S.",0901CE211101,SAISHA SINHA
+2023-01-10 12:40:43,SC021962,Transportation Engineering and Planning,"Papacostas, C.S.",0901CE211083,NIKHIL KUMAR GUPTA
+2023-01-10 12:41:51,SC007433,Course in Highway Engineering,"Bindra, S.P.",0901CE211083,NIKHIL KUMAR GUPTA
+2023-01-10 12:42:33,TP001648,Soil Mechanics and Foundations,Punamia B C,0901CE211118,UJJWAL KUMAR
+2023-01-10 12:45:49,SC018039,Thermodynamics,Cengel/Boles,0901ME211010,ANISH KHAN
+2023-01-10 12:46:00,SC030789,Higher Engineering Mathematics,"Grewal , B.S.",0901ME211010,ANISH KHAN
+2023-01-10 12:46:11,TP005115,Nises's Control Systems Engineering,Gupta Rajeev,0901EC211017,AMAN GUPTA
+2023-01-10 12:48:23,TP002749,Thermodynamics,Cengel Y A,0901ME211026,DEEP CHAKRABORTY
+2023-01-10 12:48:31,SC024567,Machine Design,"Sharma, P.C.",0901ME211026,DEEP CHAKRABORTY
+2023-01-10 12:49:04,lg020595,Highway Engineering,Kodiyali,0901CE211118,UJJWAL KUMAR
+2023-01-10 12:49:34,SC023191,Higher Engineering Mathematics,"Grewal, B.S.",0901ME211026,DEEP CHAKRABORTY
+2023-01-10 12:50:22,SC013518,Electric Machines,Kothari D P,0901EE211067,MANISHA PAL
+2023-01-10 12:50:32,SC018891,Electrical Power System,Wadhwa C.L.,0901EE211067,MANISHA PAL
+2023-01-10 12:50:37,LG033334,The 8051 Microcontroller & Embedded System,Mazidi M A,0901EE211067,MANISHA PAL
+2023-01-10 12:50:42,TP004418,Microprocessor The 8086/8088,Bahadure N B,0901EE211067,MANISHA PAL
+2023-01-10 12:51:29,TP001071,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211028,ARPITA KHAN
+2023-01-10 12:56:24,TP002754,Thermodynamics,Cengel Y A,0901ME211025,BHARAT KHUDASIA
+2023-01-10 12:56:38,TP002763,Thermodynamics,Cengel Y A,0901ME211037,INDRESH SINGH CHAUHAN
+2023-01-10 12:56:49,TP003769,Control System Engineering,Nagrath & Gopal,0901ET211024,HARSH GOYAL
+2023-01-10 13:59:51,TP001634,Soil Mechanics and Foundations,Punamia B C,0901CE211104,SAURABH TIWARI
+2023-01-10 14:00:36,SC029014,Discrete Mathematics,"Rosen, K.H.",0901CE211104,SAURABH TIWARI
+2023-01-10 14:00:55,SC031678,Irrigation Engineering,"Raghunath , H.M.",0901CE211013,AKANKSHA DIXIT
+2023-01-10 14:01:03,TP003249,Basic Structural Analysis,Reddy C S,0901CE211013,AKANKSHA DIXIT
+2023-01-10 14:01:17,SC020815,Highway Engineering,Justo/Khanna Publication,0901CE211013,AKANKSHA DIXIT
+2023-01-10 14:01:34,SC010272,Basic and Applied Science Soil Mechanics,Gopal Ranjan,0901CE211013,AKANKSHA DIXIT
+2023-01-10 14:01:46,SC031554,Water Supply Engineering,"Garg , S.K.",0901CE211013,AKANKSHA DIXIT
+2023-01-10 14:02:02,TP003197,Basic Structural Analysis,Reddy C S,0901CE211063,HIMANSHI BHADAURIYA
+2023-01-10 14:02:17,SC020086,Highway Engineering,"Kadiyali , L.R.",0901CE211063,HIMANSHI BHADAURIYA
+2023-01-10 14:02:30,SC008700,Soil Mechanics and Foundation Engineering,"Arora, K.R.",0901CE211063,HIMANSHI BHADAURIYA
+2023-01-10 14:02:49,SC004412,Field Theory,"Gangadhar, K.A.",0901EE211131,YASH DWIVEDI
+2023-01-10 14:03:01,SC019505,Generalized Theory Of Electrical Machines,Bimbhra P.S.,0901EE211131,YASH DWIVEDI
+2023-01-10 14:03:10,SC021282,Power System Analysis,Saadat Hadi,0901EE211131,YASH DWIVEDI
+2023-01-10 14:04:29,SC031564,Highway Engineering,Khanna Publication/Justo,0901CE211049,DHRUV SHARMA
+2023-01-10 14:04:47,TP001601,Soil Mechanics and Foundations,Punamia B C,0901CE211049,DHRUV SHARMA
+2023-01-10 14:04:58,TP003117,Engineering Hydrology,Subramanya K,0901CE211049,DHRUV SHARMA
+2023-01-10 14:05:22,SC027274,Circuit Theory,"Chakrabarty , A.",0901EC211097,PRIYANSI SINGH
+2023-01-10 14:05:33,SC021020,Modern Digital & Analog Communications Systems,"Lathi, B.P.",0901EC211097,PRIYANSI SINGH
+2023-01-10 14:09:17,TP003083,Engineering Hydrology,Subramanya K,0901CE211043,DEVRAT SHARMA
+2023-01-10 14:09:27,TP001659,Soil Mechanics and Foundations,Punamia B C,0901CE211043,DEVRAT SHARMA
+2023-01-10 14:13:04,TP003277,Intermediate Structural Analysis,Wang C K,0901CE211087,NIKHIL SINGH YADAV
+2023-01-10 14:13:37,SC020813,Highway Engineering,Justo/Khanna Publication,0901CE211087,NIKHIL SINGH YADAV
+2023-01-10 14:14:05,TP003085,Engineering Hydrology,Subramanya K,0901CE211087,NIKHIL SINGH YADAV
+2023-01-10 14:14:10,TP001613,Soil Mechanics and Foundations,Punamia B C,0901CE211087,NIKHIL SINGH YADAV
+2023-01-10 14:14:31,TP003252,Intermediate Structural Analysis,Wang C K,0901CE211068,KRAPANK DIXIT
+2023-01-10 14:14:46,TP003118,Engineering Hydrology,Subramanya K,0901CE211068,KRAPANK DIXIT
+2023-01-10 14:14:51,TP001617,Soil Mechanics and Foundations,Punamia B C,0901CE211068,KRAPANK DIXIT
+2023-01-10 14:15:48,SC008673,Database System Concepts,Korth/Sudarshan,0901EO211052,SHREYA PATEL
+2023-01-10 14:16:06,SC023558,Software Engineering,"Mall, Rajib",0901EO211052,SHREYA PATEL
+2023-01-10 14:16:27,LG030998,Computer Networks,"Tanenbaum, A S",0901EO211052,SHREYA PATEL
+2023-01-10 14:16:48,SC003318,Database Systems Concepts,Korth,0901EO211058,TANVI TOMAR
+2023-01-10 14:16:58,SC023964,Software Engineering,"Mall, Rajib",0901EO211058,TANVI TOMAR
+2023-01-10 14:17:05,TP002403,Data Communication and Networking,Forouzan B A,0901EO211058,TANVI TOMAR
+2023-01-10 14:17:25,LG028140,Advanced graphics programming in C and C++,Stevenson,0901EE211056,JIYA DHANKANI
+2023-01-10 14:21:12,TP001331,Fundamentals of Heat and Mass Transfer,Roy G K,0901AM211059,SURABHI VERMA
+2023-01-10 14:21:18,TP000143,Chemical Equipment Design,Bhattacharya B C,0901AM211059,SURABHI VERMA
+2023-01-10 14:21:24,SC036067,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901AM211059,SURABHI VERMA
+2023-01-10 14:24:13,SC020222,Highway and Soil Engineering,"Vazirani, V.N.",0901CE211045,DHRUV MITTAL
+2023-01-10 14:24:18,TP003084,Engineering Hydrology,Subramanya K,0901CE211045,DHRUV MITTAL
+2023-01-10 14:24:22,TP001640,Soil Mechanics and Foundations,Punamia B C,0901CE211045,DHRUV MITTAL
+2023-01-10 14:24:27,TP003195,Basic Structural Analysis,Reddy C S,0901CE211045,DHRUV MITTAL
+2023-01-10 14:24:44,SC020225,Highway and Soil Engineering,"Vazirani, V.N.",0901CE211068,KRAPANK DIXIT
+2023-01-10 14:50:21,LG033016,Cryptography and Network Security,Forouzan Behouz A,0901EO211022,DISHA THAKUR
+2023-01-10 14:51:12,SC025865,Software Engineering,"Jawadekar , W.S.",0901EO211031,KHUSHI GUPTA
+2023-01-10 14:53:51,SC024413,Thermodynamics,"Arora, C.P.",0901AU211012,SAMIKSHA JINDAL
+2023-01-10 14:54:04,SC006439,Theory Of Machines,"Khurmi, R.S.",0901AU211012,SAMIKSHA JINDAL
+2023-01-10 14:54:33,TP002730,Design of Machine Elements,Bhandari V B,0901ME211077,SHIVAM MITTAL
+2023-01-10 14:57:34,SC016288,Communication Systems,"Haykin, Simmon",0901EC211101,RITIK JAIN
+2023-01-10 15:24:09,SC022572,Power System Engineering,Kothari/Nagrath,0901EE211031,ASHUTOSH TIWARI
+2023-01-10 15:24:18,TP004664,Electrical Machines -1,Bakshi M V,0901EE211031,ASHUTOSH TIWARI
+2023-01-10 15:27:22,SC024789,Communication Systems Analog & Digital,Singh/Sapre,0901EC211013,ADITYA VERMA
+2023-01-10 15:27:34,SC027541,Control Systems,Kumar Anand,0901EC211022,ANIKET SHARMA
+2023-01-10 15:32:12,TP001627,Soil Mechanics and Foundations,Punamia B C,0901CE211027,ANUSHKA SINGH
+2023-01-10 15:32:22,SC021871,Irrigation & Water Resources Engineering,"Asawa, G.L.",0901CE211027,ANUSHKA SINGH
+2023-01-10 15:32:47,LG016811,Theory of Structures,Ramamrutham S,0901CE211027,ANUSHKA SINGH
+2023-01-10 15:33:21,SC025054,Theory of Structures,"Khurmi, R.S.",0901CE211102,SANSKAR DEV BHARDWAJ
+2023-01-10 15:33:31,SC007360,Geotechnical Engineering,"Venkatramaiah, C.",0901CE211102,SANSKAR DEV BHARDWAJ
+2023-01-10 15:33:36,TP001655,Soil Mechanics and Foundations,Punamia B C,0901CE211102,SANSKAR DEV BHARDWAJ
+2023-01-10 15:33:45,SC021873,Irrigation & Water Resources Engineering,"Asawa, G.L.",0901CE211102,SANSKAR DEV BHARDWAJ
+2023-01-10 15:37:34,TP004640,Electrical Machines -1,Bakshi M V,0901EE211010,ADITYA SINGH
+2023-01-10 15:37:40,TP003556,Modern Power System Analysis,Kothari & Nagrath,0901EE211010,ADITYA SINGH
+2023-01-10 15:37:51,LG033393,Microprocessors and Interfacing,Hall D V,0901EE211010,ADITYA SINGH
+2023-01-10 15:54:46,TP000158,Chemical Equipment Design,Bhattacharya B C,0901CM211006,KHUSHI TIWARI
+2023-01-10 15:54:54,TP002863,Process Systems Analysis and Control,Coughanowr D R,0901CM211006,KHUSHI TIWARI
+2023-01-10 15:55:04,SC036105,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211006,KHUSHI TIWARI
+2023-01-10 15:55:12,TP001417,Higher Engineering Mathematics,"Grewal, B S",0901CM211006,KHUSHI TIWARI
+2023-01-10 15:55:31,TP000150,Chemical Equipment Design,Bhattacharya B C,0901CM211009,NILIMA NIRMALE
+2023-01-10 15:55:38,TP002862,Process Systems Analysis and Control,Coughanowr D R,0901CM211009,NILIMA NIRMALE
+2023-01-10 15:55:46,SC036100,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211009,NILIMA NIRMALE
+2023-01-10 16:04:31,SC016280,Digital Communication,"Proakis, John G.",0901EC211066,KIRTI JHA
+2023-01-10 16:04:47,SC025383,Control Systems Engineering,"Nise, N.S.",0901EC211066,KIRTI JHA
+2023-01-10 16:05:54,SC022534,Heat & Mass Transfer,"Nag, P.K.",0901EC221066,NAVEEN GANGARE
+2023-01-10 16:06:04,TP001317,Fundamentals of Heat and Mass Transfer,Roy G K,0901EC221066,NAVEEN GANGARE
+2023-01-10 16:06:20,TP001330,Fundamentals of Heat and Mass Transfer,Roy G K,0901EC221066,NAVEEN GANGARE
+2023-01-10 16:08:06,SC025384,Control Systems Engineering,"Nise, N.S.",0901EC211079,NANDINI AGRAWAL
+2023-01-10 16:08:21,SC016445,Digital Communication,"Proakis, John G.",0901EC211079,NANDINI AGRAWAL
+2023-01-10 16:08:39,SC006743,Integrated Electronics,Millman/ Halkias,0901EC211079,NANDINI AGRAWAL
+2023-01-10 16:09:15,SC013536,Integrated Electronics,Millman * Halkias,0901EC211114,SHRUTI GOLWALKAR
+2023-01-10 16:09:24,SC016287,Digital Communication,"Proakis, John G.",0901EC211114,SHRUTI GOLWALKAR
+2023-01-10 16:09:33,SC025380,Control Systems Engineering,"Nise, N.S.",0901EC211114,SHRUTI GOLWALKAR
+2023-01-10 16:09:57,SC015455,Control Systems Engineering,"Nise, Norman S.",0901EC211075,MONISHA JAIN
+2023-01-10 16:10:21,SC016294,Communication Systems,"Haykin, Simmon",0901EC211075,MONISHA JAIN
+2023-01-10 16:11:43,ST024826,Circuit Theory,Chakrabarti A.,0901EC211088,POOJA SAHU
+2023-01-10 16:13:50,SC024242,Refrigeration & Air Conditioning,"Arora, C.P.",0901ME201082,Mayank Sharma
+2023-01-10 16:14:00,SC025964,Mechanical Vibration,"Rao , S.S.",0901ME201082,Mayank Sharma
+2023-01-10 16:14:26,SC007440,Textbook of Hydrology and Water Resources Engineering,"Sharma, R.K.",0901CE211065,JUNED ALI
+2023-01-10 16:14:32,TP001616,Soil Mechanics and Foundations,Punamia B C,0901CE211065,JUNED ALI
+2023-01-10 16:14:47,SC013173,Theory of Structures,"Punmia, B C",0901CE211065,JUNED ALI
+2023-01-10 16:17:17,TP001319,Fundamentals of Heat and Mass Transfer,Roy G K,0901CM211001,ABHAY JHA
+2023-01-10 16:17:27,SC036119,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211001,ABHAY JHA
+2023-01-10 16:17:56,TP001404,Higher Engineering Mathematics,"Grewal, B S",0901CM211001,ABHAY JHA
+2023-01-10 16:19:43,TP003202,Basic Structural Analysis,Reddy C S,0901CE211005,ABHISHEK KUMAR SAHU
+2023-01-10 16:19:49,TP003347,Limit State Design of Steel Structure,Duggal S K,0901CE211005,ABHISHEK KUMAR SAHU
+2023-01-10 16:19:56,TP001647,Soil Mechanics and Foundations,Punamia B C,0901CE211005,ABHISHEK KUMAR SAHU
+2023-01-10 16:21:21,SC022805,Fundamentals of Finanacial Management,"Bose , D.C.",0901EE211130,VISHAL KUSHWAH
+2023-01-10 16:21:45,TP003872,Op-Amps and Linera Integrated Circuits,Gayakwad R A,0901ET211047,ROHIT SINGH RAJPUT
+2023-01-10 16:22:10,SC026258,Communication Systems,Haykin S.,0901ET211044,PRASHANT SHARMA
+2023-01-10 16:22:20,TP004008,Operational Amplifiers and Linera Integrated Circuits,Coughlin R F,0901ET211044,PRASHANT SHARMA
+2023-01-10 16:22:42,SC030820,Operating Systems,Harris A.J.,0901CA221039,MOHIT SHARMA
+2023-01-10 16:23:20,TP002334,Introduction to Langauages and Theory of Computation,Martin J C,0901CD211010,ANUSHREE SHARMA
+2023-01-10 16:23:25,TP002407,Software Engineering,Pressman R S,0901CD211010,ANUSHREE SHARMA
+2023-01-10 16:23:52,SC016527,Database System,"Date , C.J.",0901CD211010,ANUSHREE SHARMA
+2023-01-10 16:24:06,SC031317,Computer Networks,"Tanenbaum , A.S.",0901CD211010,ANUSHREE SHARMA
+2023-01-10 16:25:59,ST023431,Software Engineering 6th Ed.,Pressman R.S.,0901CD211055,SHRAVAN SINGH CHAUHAN
+2023-01-10 16:26:22,SC011560,Computer Networks,"Tanenbaum, A S",0901CD211055,SHRAVAN SINGH CHAUHAN
+2023-01-10 16:26:33,TP002286,Introduction to Langauages and Theory of Computation,Martin J C,0901CD211055,SHRAVAN SINGH CHAUHAN
+2023-01-10 16:26:54,SC023288,Database Systems,"Date , C.J.",0901CD211055,SHRAVAN SINGH CHAUHAN
+2023-01-10 16:27:19,TP001329,Fundamentals of Heat and Mass Transfer,Roy G K,0901CM211005,KHUSHAL MODI
+2023-01-10 16:27:28,TP002857,Process Systems Analysis and Control,Coughanowr D R,0901CM211005,KHUSHAL MODI
+2023-01-10 16:27:40,SC036071,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211005,KHUSHAL MODI
+2023-01-10 16:28:26,SC016062,Heat and Thermodynamics,Rajput R.K.,0901CM211017,SHOURYA UPADHYAY
+2023-01-10 16:28:34,TP001321,Fundamentals of Heat and Mass Transfer,Roy G K,0901CM211017,SHOURYA UPADHYAY
+2023-01-10 16:28:43,SC036092,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211017,SHOURYA UPADHYAY
+2023-01-10 16:28:51,TP002858,Process Systems Analysis and Control,Coughanowr D R,0901CM211017,SHOURYA UPADHYAY
+2023-01-10 16:29:43,SC013605,Communication Systems,"Haykin, Simon",0901ET211032,MANISH RANA
+2023-01-10 16:30:05,SC030259,Microprocessor and Its Applications,Theagarajan R.,0901EE211113,SONAKSHI BANSAL
+2023-01-10 16:30:10,LG033429,Power System Analysis & Design,Gupta B R,0901EE211113,SONAKSHI BANSAL
+2023-01-10 16:30:28,SC013513,Electric Machines,Kothari D P,0901EE211113,SONAKSHI BANSAL
+2023-01-10 16:30:41,SC028346,8051 Microcontroller & Embeded Systems,"Venkatesh , S.K.",0901EE211113,SONAKSHI BANSAL
+2023-01-10 16:31:29,SC013717,Communication Systems,"Haykin, Simon",0901ET211061,SUKANT ARORA
+2023-01-10 16:31:54,SC026382,Theory of Computer Science,"Mishra, K.L.P.",0901MC211006,ADITYA SINGH SIKARWAR
+2023-01-10 16:32:08,SC031440,The Design & Analysis of Computer Algorithm,Aho/ullman,0901MC211006,ADITYA SINGH SIKARWAR
+2023-01-10 16:32:27,SC031458,The Design & Analysis of Computer Algorithm,Aho/ullman,0901MC211041,MRADUL YADAV
+2023-01-10 16:32:47,TP005435,Information Theory Coding & Cryptography,Bose Ranjana,0901MC211041,MRADUL YADAV
+2023-01-10 16:33:36,SC004807,Introduction To Automata Theory Language And Computer,"Hopcroft, John",0901MC211041,MRADUL YADAV
+2023-01-10 16:33:53,SC025382,Control Systems Engineering,"Nise, N.S.",0901ET211001,ABHINAV SINGH SENGAR
+2023-01-10 16:34:03,SC006151,Communication Systems,"Haykin, S",0901ET211001,ABHINAV SINGH SENGAR
+2023-01-10 16:35:19,TP002861,Process Systems Analysis and Control,Coughanowr D R,0901CM211019,ZOYA KHAN
+2023-01-10 16:35:35,SC036079,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211019,ZOYA KHAN
+2023-01-10 16:35:56,TP003877,Op-Amps and Linera Integrated Circuits,Gayakwad R A,0901ET211040,PRABHAV BHARDWAJ
+2023-01-10 16:36:06,SC028607,Control Systems Engineering,"Nise, N.S.",0901ET211040,PRABHAV BHARDWAJ
+2023-01-10 16:36:16,SC008385,Communication Systems,Haykin Simon,0901ET211040,PRABHAV BHARDWAJ
+2023-01-10 16:36:49,TP003879,Op-Amps and Linera Integrated Circuits,Gayakwad R A,0901ET211026,HEMANT PANDEY
+2023-01-10 16:36:58,SC013715,Communication Systems,"Haykin, Simon",0901ET211026,HEMANT PANDEY
+2023-01-10 16:43:37,SC025381,Control Systems Engineering,"Nise, N.S.",0901ET211026,HEMANT PANDEY
+2023-01-10 16:46:34,TP001318,Fundamentals of Heat and Mass Transfer,Roy G K,0901CM211008,NIKHIL SINGH
+2023-01-10 16:46:42,SC036082,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211008,NIKHIL SINGH
+2023-01-10 16:47:24,SC036090,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211013,SAKET YADAV
+2023-01-10 16:47:33,TP001397,Higher Engineering Mathematics,"Grewal, B S",0901CM211013,SAKET YADAV
+2023-01-10 17:13:03,LG033258,Research Methodology,Kothari C R,2K12S093,Deepak Soni
+2023-01-11 12:05:50,SC033662,Basic Civil Engineering & Engineering Mechanics,Dwivedi K K,0901AR221001,ABHIMANYU SONA
+2023-01-11 12:09:10,TP001972,Engineering Physics,Malik & Singh,0901IO221023,BHAVYA JAIN
+2023-01-11 12:09:33,SC032898,Object Oriented Programming With  C++,Balagurusamy E,0901IO221066,SHIVANI SHARMA
+2023-01-11 12:09:44,TP001930,Engineering Physics,Malik & Singh,0901IO221066,SHIVANI SHARMA
+2023-01-11 12:37:59,SC014901,Compilers : Principles Techniques and Tools,"Aho, Appredu",BDKPR0969R,Bhagat singh Raghuwanshi
+2023-01-11 12:38:07,SC029062,Database System Concepts,Silberschatz A.,BDKPR0969R,Bhagat singh Raghuwanshi
+2023-01-11 14:03:01,SC037510,Basic Electrical Engineering (Kothari D P),Kothari D P,0901EE221070,SAURAV PRAJAPATI
+2023-01-11 14:03:11,SC037387,Basic Engineering Mathematics (Dass H K),Dass H K,0901EE221070,SAURAV PRAJAPATI
+2023-01-11 14:32:24,TP005200,Network Analysis and Synthesis,Kuo F F,0901ET221044,PRATEEK OJHA
+2023-01-11 14:32:40,SC032934,Engineering Chemistry (Sashi Chawla),Chawla S,0901ET221014,ATHARVA GOYAL
+2023-01-11 14:32:56,SC032967,Engineering Chemistry (Sashi Chawla),Chawla S,0901ET221024,HARSH RAJAK
+2023-01-11 14:33:14,TP003931,Network Analysis,VanValkenburg,0901ET221074,VANSH SHRIVASTAVA
+2023-01-11 14:53:44,SC025921,Data Strutures Using C,"Bandyopadhyay, S.K.",0901AU201033,Vinay Sharma
+2023-01-11 15:01:29,SC034066,Basic Engineering Mathematics (Dass H K),Dass H K,0901CD221001,ABHAY SHUKLA
+2023-01-11 15:01:34,SC035452,Professional Speaking Skills,Koneru A,0901CD221001,ABHAY SHUKLA
+2023-01-11 15:04:13,SC034923,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221021,ATHARVA SHROTRIYA
+2023-01-11 15:26:18,SC037642,Basic Electrical Engineering (Kothari D P),Kothari D P,ARJPD1904A,Pawan Dubey
+2023-01-11 15:32:24,TP002008,Programming with C++,Ravichandran D,0901CS221057,ISHAAN SHARMA
+2023-01-11 15:33:09,TP000626,Chemistry,Chawla Shashi,0901CS221099,PRANAV SUMAN
+2023-01-11 15:58:24,ST030701,Basic Engineering Mathematics (Dass H K),Dass H K,0901CD221068,VAISHNAVI KATARA
+2023-01-11 16:03:16,TP006023,Electrical & Electronics Engineering Materials,Kapoor K L,0901EE221043,KUNAL SINGH
+2023-01-11 16:11:58,TP003354,Limit State Design of Steel Structure,Duggal S K,0901CE201051,Jain
+2023-01-11 16:12:03,TP001168,Sewage Disposal & Air Pollution Engineering Vol-2,Garg S K,0901CE201051,Jain
+2023-01-11 16:12:26,ST031189,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901AI211022,DEVANSH MANDELIYA
+2023-01-11 16:12:42,ST030700,Basic Engineering Mathematics (Dass H K),Dass H K,0901CE221085,ROHIT KAMAT
+2023-01-11 16:24:46,TP001885,Engineering Physics,Malik & Singh,0901CS221039,DEVANSH RAJPUT
+2023-01-11 16:43:27,SC003546,Let Us C++,"Kanetkar,y.",0901CS221070,KOLLURU SHREYA
+2023-01-11 16:43:41,SC035097,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901CS221070,KOLLURU SHREYA
+2023-01-11 16:44:02,SC035169,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901CD221044,PRIYANKA SIKARWAR
+2023-01-11 16:44:27,SC035087,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901CS221059,ISHIKA SONI
+2023-01-11 16:48:34,ST031329,Discrete Structure,"Agarwal , D.C.",0901CA221031,HARSHA SHARMA
+2023-01-11 16:50:20,LG029069,Client/Server Cmputing with ORACLE,"Salemi , Joe",0901CA221076,YASHIKA THAKUR
+2023-01-11 16:50:37,ST031305,Discrete Structure,"Agarwal , D.C.",0901CA221076,YASHIKA THAKUR
+2023-01-11 16:51:51,ST027512,Data Structures,Lipschutz S.,0901CA221063,SHRASTI PAWAR
+2023-01-11 16:52:05,ST031321,Discrete Structure,"Agarwal , D.C.",0901CA221063,SHRASTI PAWAR
+2023-01-11 16:52:59,SC005387,Fundamentals Of Database Systems,Elmasri,0901CA221007,AKRATI JAIN
+2023-01-11 16:53:54,ST031486,Fundamentals of Database System,Navathe/ Elmasri,0901CA221033,KARTIK BADAL
+2023-01-11 16:54:22,ST031338,Discrete Structure,"Agarwal , D.C.",0901CA221069,VIJAY DHAKAD
+2023-01-11 16:54:33,ST023390,Expert Data Structures with C,Patel R.B.,0901CA221069,VIJAY DHAKAD
+2023-01-11 16:54:46,SC009645,Database Systems Concepts,Korth/Silberschatz,0901CA221069,VIJAY DHAKAD
+2023-01-11 17:26:18,ST023386,Data Base System Concepts,Korth,BMLPM8715L,Jigyasa Mishra
+2023-01-11 17:26:54,SC030979,Automobile Egineering -I,"Singh , Kirpal",0901AU201028,Saransh Bairagi
+2023-01-12 10:49:49,ST025049,Software Engineering,Pressman,0901CD211011,ARUN SINGH
+2023-01-12 10:49:59,ST027190,Computer Networks,Tanenbaum,0901CD211011,ARUN SINGH
+2023-01-12 11:44:55,ST030527,Basic Engineering Mathematics-III,"Dass, H.K.",0901IT211030,KUNDAN RATHORE
+2023-01-12 11:45:30,ST028029,Software Engineering,Pressman,0901IT211030,KUNDAN RATHORE
+2023-01-12 11:45:45,ST023462,Computer Networks,Tanenbaum,0901IT211030,KUNDAN RATHORE
+2023-01-12 11:45:58,ST031393,Computer Graphics : C Version,Hearn/ Baker,0901IT211030,KUNDAN RATHORE
+2023-01-12 11:49:36,ST030611,Basic Engineering Mathematics-III,"Dass, H.K.",0901CE211056,HARSH SHAKYA
+2023-01-12 11:49:53,ST028965,Theory of Structures,Ramamurtham,0901CE211056,HARSH SHAKYA
+2023-01-12 14:17:57,ST023455,Computer Networking,Kurose J.F.,0901EE191122,SURBHI AHIRWAR
+2023-01-12 14:18:26,ST024471,Control System Engineering,Nise N.S.,0901EE191122,SURBHI AHIRWAR
+2023-01-12 14:20:19,ST008383,Modern Geotechnical Engineering,Singh Alam,0901CE211071,KUSHAGRA SHAKYA
+2023-01-12 14:21:18,ST030554,Basic Engineering Mathematics-III,"Dass, H.K.",0901CE211071,KUSHAGRA SHAKYA
+2023-01-12 14:21:55,ST006982,Modern Geotechnical Engineering,Singh Alam,0901CE211056,HARSH SHAKYA
+2023-01-12 14:47:46,ST023023,Design of Steel Structures,Duggal S.K.,0901CE213D10,ROHIT
+2023-01-12 14:48:06,ST031191,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE213D10,ROHIT
+2023-01-12 14:48:35,ST030363,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201136,Parmar
+2023-01-12 15:11:52,ST031557,Data Communication and Networking,Forouzan B A,0901CS223D06,KARNIKA KANORIYA
+2023-01-12 15:15:42,SC033755,Basic Civil Engineering & Engineering Mechanics,Dwivedi K K,0901ME221077,YASH VERMA
+2023-01-12 15:29:13,SC024419,Thermodynamics,"Arora, C.P.",0901AU211015,SHIVANSH SHIVHARE
+2023-01-12 15:55:03,ST031625,Design of Machine Elements,Bhandari V B,0901ME223D07,SACHIN PALAIYA
+2023-01-12 16:03:18,ST028991,Database System Concepts,"Silverchatz, A.",0901CS211112,SOM DEV SINGH
+2023-01-12 16:03:34,ST024316,Let us C,Kanetkar,0901CS211112,SOM DEV SINGH
+2023-01-12 16:18:24,ST004540,Soil Mechanics,Sehgel S B,0901CE211105,SEEMA MACHAR
+2023-01-12 16:18:55,ST030533,Basic Engineering Mathematics-III,"Dass, H.K.",0901CE211105,SEEMA MACHAR
+2023-01-12 16:19:32,ST024695,Object Orientet Programming in C++,Lafore R.,0901IT221041,MANVENDRA SINGH MARAVI
+2023-01-12 16:25:27,ST028123,Electrical Power System,Wadhwa,0901EE211027,ARTI PANT
+2023-01-12 16:25:46,ST027734,Electric Machine 2nd Ed.,Nagrath/Kothari,0901EE211027,ARTI PANT
+2023-01-12 16:26:37,ST027758,The 8051 Microcontroller and Embedded System,Mazidi M.A.,0901EE211027,ARTI PANT
+2023-01-12 16:27:21,ST019521,Electrical Power Systems,C L Wadhwa,0901EE211054,JATIN RENIYA
+2023-01-12 16:27:36,ST027756,The 8051 Microcontroller and Embedded System,Mazidi M.A.,0901EE211054,JATIN RENIYA
+2023-01-12 16:27:51,ST028717,Electrical Machines,"Gupta, J.B.",0901EE211054,JATIN RENIYA
+2023-01-12 16:28:06,ST031100,Higher Engineering Mathematics,"Grewal , B.S.",0901EE211054,JATIN RENIYA
+2023-01-12 16:40:16,ST025170,Advanced Microprocessor & Interfacing,Tomar G.S.,0901EE211027,ARTI PANT
+2023-01-12 16:40:38,ST022859,Microprocessor Architecture Programming and Application,"Gaonkar , R.S.",0901EE211054,JATIN RENIYA
+2023-01-12 16:58:39,ST021053,Irrigation and Water Power Engineering,"Pumia , B.C.",0901CE211052,DIVYANSH RAHORA
+2023-01-12 16:58:58,ST013848,Soil Mechanics and Foundation Engieering,Punima B.C.,0901CE211052,DIVYANSH RAHORA
+2023-01-12 16:59:11,ST016984,Structural Analysis,"Pandit, G.S./Gupta, S.P.",0901CE211052,DIVYANSH RAHORA
+2023-01-12 16:59:23,ST030379,Engineering and General Geology,"Singh, Prabin",0901CE211052,DIVYANSH RAHORA
+2023-01-12 17:00:41,ST030369,Engineering and General Geology,"Singh, Prabin",0901CE211105,SEEMA MACHAR
+2023-01-12 17:00:57,ST016471,Structural Analysis,"Pandit, G.S./Gupta, S.P.",0901CE211105,SEEMA MACHAR
+2023-01-12 17:02:40,ST019961,Reinforced concrete Structures Vol-I,Punmia B.C.,0901CE201123,Maurya
+2023-01-12 17:02:48,ST030361,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201123,Maurya
+2023-01-12 17:40:07,ST011933,Soil Mechanics and Foundation Engineering,Singh Bharat,0901CE211024,ANSHITA AHIRWAR
+2023-01-12 17:40:53,ST000069,Theory of Structure,Khurmi R S,0901CE211079,MUSKAN JAYANT
+2023-01-13 10:40:05,SC022239,Mechanical Vibration,"Rao, Signiresu",0901ME201109,Rishi Gupta
+2023-01-13 10:40:15,SC019668,Refrigeration and Air Conditioning,"Arora , C.P",0901ME201109,Rishi Gupta
+2023-01-13 12:01:29,SC019185,CMOS VLSI Design,Weste N.H.E.,0901ET201049,Sagar Choudhary
+2023-01-13 12:01:53,SC024846,Programming With JAVA : A Primer,"Balagurusamy , E.",0901ET201026,Jaishikha Sharma
+2023-01-13 12:02:02,SC027019,CMOS VLSI Design,Weste/ Banerjee,0901ET201026,Jaishikha Sharma
+2023-01-13 12:18:29,TP000995,Data Mining,"Han, Jiawei",0901IO201062,Soumya Kushwaha
+2023-01-13 12:36:12,TP000993,Data Mining,"Han, Jiawei",0901EO201036,Naman Sharma
+2023-01-13 12:36:18,TP002416,Software Engineering,Pressman R S,0901EO201036,Naman Sharma
+2023-01-13 14:06:05,SC011861,Artifical Intelligence,Rich & Knight,0901MC201008,Anandita Sharma
+2023-01-13 14:06:13,SC012929,Compilers: Design and Architectures,"Aho, Alfred V",0901MC201008,Anandita Sharma
+2023-01-13 14:28:57,TP003891,Digital Signal Processing,Proakis J G,0901EC201085,Prayansh Shrivastava
+2023-01-13 14:29:02,TP002561,Artificial Intelligence,Rich & Knoght,0901EC201085,Prayansh Shrivastava
+2023-01-13 14:30:21,LG033347,Environment Engineering,Peavy H S,0901CE201012,Sharma
+2023-01-13 14:30:29,SC028842,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201012,Sharma
+2023-01-13 14:30:37,SC028040,Design of Steel Structures,"Subramanian , N.",0901CE201012,Sharma
+2023-01-13 14:33:05,SC006876,Sewage Disposal and Air Pollution Engineering ( Environmental Engg-II),"Garg ,S.K.",0901CE201004,Sharma
+2023-01-13 14:33:10,TP003346,Limit State Design of Steel Structure,Duggal S K,0901CE201004,Sharma
+2023-01-13 14:33:20,SC029672,Estimating and Costing in Civil Engineering,"Dutta, B.N.",0901CE201004,Sharma
+2023-01-13 14:43:37,SC022561,Vibrations,"Balachandran, B.",0901ME201048,Avinash Rathore
+2023-01-13 14:43:41,TP002800,Referigeration and Air Conditioning,Arora C P,0901ME201048,Avinash Rathore
+2023-01-13 14:44:19,TP002797,Referigeration and Air Conditioning,Arora C P,0901ME201074,Jaidev Singh
+2023-01-13 14:44:29,SC022564,Vibrations,"Balachandran, B.",0901ME201074,Jaidev Singh
+2023-01-13 14:59:55,SC033227,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901EE201108,Sanjana Patel
+2023-01-13 15:14:59,TP000091,Process Modeling Simulation and Control for Chemical Engineerings,Luyben W,0901CM201011,Avinash Pali
+2023-01-13 15:15:09,SC036102,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM201011,Avinash Pali
+2023-01-13 15:17:48,TP000082,Process Modeling Simulation and Control for Chemical Engineerings,Luyben W,0901CM201027,Priyanshu Sharma
+2023-01-13 15:19:08,TP001214,Sewage Disposal & Air Pollution Engineering Vol-2,Garg S K,0901CE201056,Rajput
+2023-01-13 15:19:58,ST030345,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201059,Narwariya
+2023-01-13 15:26:26,SC031356,Data Mining Concepts & Technique,Han / Kamber,0901IO201059,Shipra Kushwaha
+2023-01-13 15:27:11,ST028293,Sewage Disposal and air Pollution Engineering,"Garg, S.K.",0901CE201059,Narwariya
+2023-01-13 15:34:13,SC022243,Mechanical Vibration,"Rao, Signiresu",0901ME201022,Alok Sharma
+2023-01-13 15:34:58,SC029056,Data Mining,Han J./ Kamber,0901CS201087,Prateek Singh Jadon
+2023-01-13 15:36:17,TP002033,Object Oriented Programming with C++,Balagurusamy E,0901AD221009,ANSHUMAN HOON
+2023-01-13 15:37:54,SC029053,Data Mining,Han J./ Kamber,0901IO201049,Praveen Singh Bhadouriya
+2023-01-13 15:41:52,SC025959,Mechanical Vibration,"Rao , S.S.",0901ME201069,Hariom Goud
+2023-01-13 15:43:46,SC030812,Data Structures With C,"Lipschutz , S.",0901MC221017,ANUSHKA THAPA
+2023-01-13 15:44:10,SC034278,Basic Engineering Mathematics (Dass H K),Dass H K,0901MC221017,ANUSHKA THAPA
+2023-01-13 16:02:05,SC026688,Data Structures Using C,Jindal R.,0901EE201078,Neel kamal
+2023-01-13 16:02:09,TP004741,Control Systems,Bakshi U A,0901EE201078,Neel kamal
+2023-01-13 16:03:09,SC025271,Control Systems,"Ashok, Kumar",0901EE201078,Neel kamal
+2023-01-13 16:06:02,SC031835,Data structures Through C,"Baluja , G.S.",0901EE201080,Nishant Shrivastava
+2023-01-13 16:06:18,TP004717,Control Systems,Bakshi U A,0901EE201080,Nishant Shrivastava
+2023-01-13 16:12:26,SC014557,Sewage Disposal and Air Pollution Engineering,"Garg, S K",0901CE201004,Sharma
+2023-01-13 16:13:55,SC018483,Refrigeration And Air Conditioning,Manohar Prasad,0901ME201046,Atishay Jain
+2023-01-13 16:14:04,SC006267,Theory Of Mechanism And Machine,Ghose / Malik,0901ME201046,Atishay Jain
+2023-01-13 16:14:22,SC019688,Theory of Machines,"Rattan , S.S.",0901ME201046,Atishay Jain
+2023-01-13 16:32:55,TP003898,Digital Signal Processing,Proakis J G,0901EC201127,Utkarsh Tripathi
+2023-01-13 16:33:12,TP002562,Artificial Intelligence,Rich & Knoght,0901EC201127,Utkarsh Tripathi
+2023-01-13 16:33:27,TP003900,Digital Signal Processing,Proakis J G,0901EC201093,Rhythm Agarwal
+2023-01-13 16:33:37,SC026740,Artificial Intelligence,Rich/ Knight,0901EC201093,Rhythm Agarwal
+2023-01-13 16:33:48,SC026998,CMOS VLSI Design,Weste/ Banerjee,0901EC201093,Rhythm Agarwal
+2023-01-13 17:29:53,SC031579,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201113,Patel
+2023-01-16 14:04:46,ST023024,Design of Steel Structures,Duggal S.K.,0901CE201065,Gound
+2023-01-16 14:05:07,ST027172,Wastewater Engineering: Treatment and Reuse,Metcalf & Ceddy,0901CE201065,Gound
+2023-01-16 14:05:16,ST030351,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE201065,Gound
+2023-01-16 15:32:35,ST026851,Object Oriented Programming in C++,"Balagursamy , E.",2K12F035,Khusboo Agrawal
+2023-01-16 16:22:11,ST024998,Switchgear Protection & Power System,Rao S.S.,0901EE201040,Divya Pandre
+2023-01-16 16:22:34,ST028742,Control System Engineering,Nagrath/Gopal,0901EE201040,Divya Pandre
+2023-01-17 10:47:26,SC006555,Heat Transfer,"Dutta, B.K.",0901CM211004,KESHVENDRA PRATAP SINGH RAJAWAT
+2023-01-17 10:47:31,TP000180,Chemical Equipment Design,Bhattacharya B C,0901CM211004,KESHVENDRA PRATAP SINGH RAJAWAT
+2023-01-17 10:47:35,TP000086,Process Modeling Simulation and Control for Chemical Engineerings,Luyben W,0901CM211004,KESHVENDRA PRATAP SINGH RAJAWAT
+2023-01-17 10:47:40,TP006066,Higher Engineering Mathematics,"Grewal, B S",0901CM211004,KESHVENDRA PRATAP SINGH RAJAWAT
+2023-01-17 10:57:41,SC013520,Electric Machines,Kothari D P,0901EE211080,PARTH VISHWAKARMA
+2023-01-17 10:57:53,SC007797,Power System Analysis,Bergen/Vittal,0901EE211080,PARTH VISHWAKARMA
+2023-01-17 10:58:47,SC013511,Electric Machines,Kothari D P,0901EE211081,PAVAN DHAKAD
+2023-01-17 10:58:53,SC010482,Introduction to Microprocessors,"Mathur, Aditya P.",0901EE211081,PAVAN DHAKAD
+2023-01-17 11:26:47,SC023811,Power System Engineering,"Kothari, D.P.",0901EE211109,SHIVANG PACHORI
+2023-01-17 11:32:38,SC007705,Electric Machines,Nagrath/Kothari,0901EE211009,ADITYA PRATAP SINGH SENGAR
+2023-01-17 11:32:46,SC027261,Solved Paper University PressSC(IES) Engineering Services Examination Electrical Engineering,G.K.Publishers,0901EE211009,ADITYA PRATAP SINGH SENGAR
+2023-01-17 11:32:54,SC021013,Power System Analysis & Design,"Gupta, B.R.",0901EE211009,ADITYA PRATAP SINGH SENGAR
+2023-01-17 11:33:00,TP004661,Electrical Machines -1,Bakshi M V,0901EE211009,ADITYA PRATAP SINGH SENGAR
+2023-01-17 11:33:08,SC028780,Electric Power Generation Transmission and Distribution,"Singh, S.N.",0901EE211009,ADITYA PRATAP SINGH SENGAR
+2023-01-17 11:39:35,TP005418,Strength of Materials,Punamia B C,0901CE211121,VIRENDRA PRATAP PATEL
+2023-01-17 11:39:48,SC037359,Basic Engineering Mathematics (Dass H K),Dass H K,0901CE211121,VIRENDRA PRATAP PATEL
+2023-01-17 11:39:53,TP003297,Intermediate Structural Analysis,Wang C K,0901CE211121,VIRENDRA PRATAP PATEL
+2023-01-17 11:39:58,TP001637,Soil Mechanics and Foundations,Punamia B C,0901CE211121,VIRENDRA PRATAP PATEL
+2023-01-17 11:41:13,TP001088,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211031,AYUSH NATH UPADHYAY
+2023-01-17 11:41:18,TP001631,Soil Mechanics and Foundations,Punamia B C,0901CE211031,AYUSH NATH UPADHYAY
+2023-01-17 11:41:27,SC013027,Theory of Structures,"Ramamrutham, S",0901CE211031,AYUSH NATH UPADHYAY
+2023-01-17 11:48:28,TP003196,Basic Structural Analysis,Reddy C S,0901CE211033,AYUSHMAN GUPTA
+2023-01-17 11:48:36,SC031566,Highway Engineering,Khanna Publication/Justo,0901CE211033,AYUSHMAN GUPTA
+2023-01-17 11:48:43,SC027732,Geotechnical Engineering,"Coduto, D.P",0901CE211033,AYUSHMAN GUPTA
+2023-01-17 11:49:02,TP003193,Basic Structural Analysis,Reddy C S,0901CE211015,AKASH KUMAR
+2023-01-17 11:49:39,TP003237,Basic Structural Analysis,Reddy C S,0901CE211077,MRIGENDRA SINGH PATEL
+2023-01-17 11:50:17,SC027734,Geotechnical Engineering,"Coduto, D.P",0901CE211077,MRIGENDRA SINGH PATEL
+2023-01-17 11:52:41,SC022827,Geotechnical Engineering,"Coduto, D.P.",0901CE211015,AKASH KUMAR
+2023-01-17 11:53:00,SC002136,Soil Mechanics and Foundation Engineering,Arora K R,0901CE211088,NIKITA SHARMA
+2023-01-17 11:53:08,TP001046,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211088,NIKITA SHARMA
+2023-01-17 12:01:10,TP001438,Higher Engineering Mathematics,"Grewal, B S",0901EE211129,VIKAS MISHRA
+2023-01-17 12:01:17,TP004644,Electrical Machines -1,Bakshi M V,0901EE211129,VIKAS MISHRA
+2023-01-17 12:01:23,TP003532,Modern Power System Analysis,Kothari & Nagrath,0901EE211129,VIKAS MISHRA
+2023-01-17 12:01:40,TP004673,Electrical Machines -1,Bakshi M V,0901EE211066,KUNAL BHARADWAJ
+2023-01-17 12:01:51,TP003535,Modern Power System Analysis,Kothari & Nagrath,0901EE211066,KUNAL BHARADWAJ
+2023-01-17 12:03:10,TP001461,Higher Engineering Mathematics,"Grewal, B S",0901CE211118,UJJWAL KUMAR
+2023-01-17 12:03:14,TP003192,Basic Structural Analysis,Reddy C S,0901CE211118,UJJWAL KUMAR
+2023-01-17 12:03:22,TP001053,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211118,UJJWAL KUMAR
+2023-01-17 12:03:40,TP001084,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211055,HARSH KUMAR CHAURASIA
+2023-01-17 12:03:54,TP001602,Soil Mechanics and Foundations,Punamia B C,0901CE211095,PRIYANSHU RAJPOOT
+2023-01-17 12:04:03,LG029866,Highway Engineering,Bindra,0901CE211095,PRIYANSHU RAJPOOT
+2023-01-17 12:04:08,TP003189,Basic Structural Analysis,Reddy C S,0901CE211095,PRIYANSHU RAJPOOT
+2023-01-17 12:04:16,TP001442,Higher Engineering Mathematics,"Grewal, B S",0901CE211095,PRIYANSHU RAJPOOT
+2023-01-17 12:08:13,TP001743,Surveying Vol-2,Punamia B C,0901CE211006,ABHISHEK RAJPOOT
+2023-01-17 12:08:18,TP001075,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211006,ABHISHEK RAJPOOT
+2023-01-17 12:15:39,TP003776,Control System Engineering,Nagrath & Gopal,2K12F022,Ashish Patra
+2023-01-17 12:54:53,ST030576,Basic Engineering Mathematics-III,"Dass, H.K.",0901CE211038,DEV PRATAP SINGH
+2023-01-17 12:55:18,TP003008,Mass Transfer Operation,Treybal R E,0901CM211004,KESHVENDRA PRATAP SINGH RAJAWAT
+2023-01-17 12:58:03,ST025050,Software Engineering,Pressman,0901CS211114,SOURAV DINKAR
+2023-01-17 12:58:12,ST021621,Computer Network,"Tanenbaum, A.S.",0901CS211114,SOURAV DINKAR
+2023-01-17 13:58:56,SC014586,Water Supply Engineering,"Garg, S.K.",0901CE211088,NIKITA SHARMA
+2023-01-17 13:59:04,TP003236,Basic Structural Analysis,Reddy C S,0901CE211088,NIKITA SHARMA
+2023-01-17 13:59:21,TP002091,Communication Systems : Analog & Digital,Singh/ Sapre S.D.,0901EC211054,HARSH MALVIYA
+2023-01-17 13:59:26,TP005112,Nises's Control Systems Engineering,Gupta Rajeev,0901EC211054,HARSH MALVIYA
+2023-01-17 13:59:43,TP003201,Basic Structural Analysis,Reddy C S,0901CE211003,AASTHA VERMA
+2023-01-17 13:59:48,TP001605,Soil Mechanics and Foundations,Punamia B C,0901CE211003,AASTHA VERMA
+2023-01-17 14:12:07,LG032533,Numerical Analysis in Engineering,Bhatt/ Chakravarty,0901EE211031,ASHUTOSH TIWARI
+2023-01-17 14:12:39,TP004682,Electrical Machines -1,Bakshi M V,0901EE211078,NITIN SHROTI
+2023-01-17 14:12:47,LG033465,Microprocessor and Interfacing,Godse A P,0901EE211078,NITIN SHROTI
+2023-01-17 14:12:54,SC025238,Modern Power System Analysis,Nagrath/Kothari,0901EE211078,NITIN SHROTI
+2023-01-17 14:13:07,TP004408,Microprocessor The 8086/8088,Bahadure N B,0901EE211070,MOHINI MISHRA
+2023-01-17 14:13:15,SC021293,Power System Engineering,Nagrath/Kothari,0901EE211070,MOHINI MISHRA
+2023-01-17 14:13:22,SC022409,Electric Machines,Kothari/Nagrath,0901EE211070,MOHINI MISHRA
+2023-01-17 14:13:35,TP004414,Microprocessor The 8086/8088,Bahadure N B,0901EE211068,MANVENDRA SINGH
+2023-01-17 14:13:43,SC014361,Power System Engineering,Nagrath * Kothari,0901EE211068,MANVENDRA SINGH
+2023-01-17 14:13:48,TP004681,Electrical Machines -1,Bakshi M V,0901EE211068,MANVENDRA SINGH
+2023-01-17 14:14:06,SC025239,Modern Power System Analysis,Nagrath/Kothari,0901EE211073,NAMAN SHARMA
+2023-01-17 14:14:10,TP004645,Electrical Machines -1,Bakshi M V,0901EE211073,NAMAN SHARMA
+2023-01-17 14:14:24,TP002317,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211079,PARAS JAIN
+2023-01-17 14:14:42,SC003317,Database Systems Concepts,Korth,0901CS211079,PARAS JAIN
+2023-01-17 14:14:51,SC017834,Chemical Process Principles Part-II,Hougen,0901CS211079,PARAS JAIN
+2023-01-17 14:16:01,TP001056,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211053,EKTA CHATURVEDI
+2023-01-17 14:16:09,SC013111,Theory of Structures,"Ramamrutham, S",0901CE211053,EKTA CHATURVEDI
+2023-01-17 14:16:34,SC003722,Thinking In C++,Eckel Bruce,0901CS211071,MUSTAFA DEWASWALA
+2023-01-17 14:16:44,SC037134,Programming through C++ (Ranade A G),Ranade A G,0901CS211071,MUSTAFA DEWASWALA
+2023-01-17 14:17:25,SC024167,Computer Networks,"Sharma, C.R.",0901CS211071,MUSTAFA DEWASWALA
+2023-01-17 14:18:39,TP002468,TCP/IP Protocol Suite,Forouzan B A,0901EO211031,KHUSHI GUPTA
+2023-01-17 14:24:48,SC031258,Theory of Computer Science,"Mishra, K.L.P.",0901MC211034,KARTIKA KANNOJIYA
+2023-01-17 14:25:02,SC028957,Theory of Computer Science,"Mishra, K.L.P.",0901MC211064,UTKARSH GUPTA
+2023-01-17 14:26:00,SC007441,Textbook of Hydrology and Water Resources Engineering,"Sharma, R.K.",0901CE211060,HARSHVARDHAN SINGH BHADOURIYA
+2023-01-17 14:26:07,TP001614,Soil Mechanics and Foundations,Punamia B C,0901CE211060,HARSHVARDHAN SINGH BHADOURIYA
+2023-01-17 14:26:15,TP003239,Basic Structural Analysis,Reddy C S,0901CE211060,HARSHVARDHAN SINGH BHADOURIYA
+2023-01-17 14:33:00,SC031565,Highway Engineering,Khanna Publication/Justo,0901CE211028,ARPITA KHAN
+2023-01-17 14:33:06,TP001633,Soil Mechanics and Foundations,Punamia B C,0901CE211028,ARPITA KHAN
+2023-01-17 14:39:06,SC030757,Advanced Engineering Mathematics,"Dass , H.K.",0901CE211028,ARPITA KHAN
+2023-01-17 14:39:20,SC030914,Fundamentals of Computers Algorithms,Horowitz/ Sahni,0901MC211064,UTKARSH GUPTA
+2023-01-17 14:39:33,TP001610,Soil Mechanics and Foundations,Punamia B C,0901CE211053,EKTA CHATURVEDI
+2023-01-17 14:39:57,SC008962,Higher Engineering Mathematics,"Grewal, B.S.",0901CE211053,EKTA CHATURVEDI
+2023-01-17 14:42:24,SC021945,Foundation Engineering,"Varghese, P.C.",0901EO211031,KHUSHI GUPTA
+2023-01-17 14:42:36,TP002419,Software Engineering,Pressman R S,0901EO211022,DISHA THAKUR
+2023-01-17 14:42:43,SC026236,Cryptography & Networking Security,"Kahate, Atul",0901EO211022,DISHA THAKUR
+2023-01-17 14:42:48,TP002467,TCP/IP Protocol Suite,Forouzan B A,0901EO211022,DISHA THAKUR
+2023-01-17 15:07:03,SC016306,Computer System Architecture,"Mano, Morris M.",0901AI211003,ADITI SHRIVASTAVA
+2023-01-17 15:10:21,TP003219,Basic Structural Analysis,Reddy C S,0901CE211028,ARPITA KHAN
+2023-01-17 15:35:24,ST023547,Data Base System,Date C.J.,0901CS211114,SOURAV DINKAR
+2023-01-17 15:45:57,TP002125,Data Structures and Algorithms,Pai G A V,0901MC201050,Rahul Vyas
+2023-01-17 15:46:04,SC024834,Let Us C,"Kanetkar , Y.",0901MC201050,Rahul Vyas
+2023-01-17 15:46:14,SC029116,Data Mining : Techniques & Trends,Gopalan N.P./ Sivaselvan,0901MC201050,Rahul Vyas
+2023-01-17 15:46:27,SC030926,Data Mining Concepts & Technique,Han / Kamber,0901AI201005,Aditya Yadav
+2023-01-17 15:54:24,SC031796,Computer Architecture & Organization,Ghosal S.,0901AI211064,SOUMYA SINGH PARIHAR
+2023-01-17 15:54:32,SC020507,Cryptography & Network Security,"Kanate , A.",0901AI211064,SOUMYA SINGH PARIHAR
+2023-01-17 15:54:38,TP003972,Computer System Architecture,Mano M Morris,0901AI211064,SOUMYA SINGH PARIHAR
+2023-01-17 15:55:22,LG033070,Cryptography and Network Security,Stalling William,0901EO211029,KANISHK MOREY
+2023-01-17 15:57:23,TP003980,Computer System Architecture,Mano M Morris,0901AI211036,HIYA GUPTA
+2023-01-17 15:57:29,TP002511,Web Technologies,Godbole A,0901AI211036,HIYA GUPTA
+2023-01-17 15:57:42,LG033072,Cryptography and Network Security,Stalling William,0901AI211036,HIYA GUPTA
+2023-01-17 16:00:38,TP003966,Computer System Architecture,Mano M Morris,0901AI211053,PREM RAWTANI
+2023-01-17 16:02:33,SC029591,Microprocessor Architecture Programing & Application with the 8085,"Gaonkar , R.",0901EO211029,KANISHK MOREY
+2023-01-17 16:11:17,SC029833,Computer Networks,"Tanenbaum , A.S.",0901CS211007,ADITYA KUMAR
+2023-01-17 16:11:22,TP002302,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211007,ADITYA KUMAR
+2023-01-17 16:11:32,SC031227,Database System Concepts,Korth/Silberschatz,0901CS211007,ADITYA KUMAR
+2023-01-17 16:16:21,TP004662,Electrical Machines -1,Bakshi M V,0901EE211047,GEETANJALI YADAV
+2023-01-17 16:17:19,TP002344,Introduction to Langauages and Theory of Computation,Martin J C,0901MC211030,HARSH KUSHWAHA
+2023-01-17 16:17:40,SC031457,The Design & Analysis of Computer Algorithm,Aho/ullman,0901MC211036,KHUSHI SONI
+2023-01-17 16:18:14,SC028950,Computer Networks,"Tanenbaum , A.S.",0901CS211083,POOJA BAGHEL
+2023-01-17 16:19:07,TP003028,Mass Transfer Operation,Treybal R E,0901CM211019,ZOYA KHAN
+2023-01-17 16:19:18,TP002333,Introduction to Langauages and Theory of Computation,Martin J C,0901MC211035,KHUSHI KANSANA
+2023-01-17 16:20:43,TP004663,Electrical Machines -1,Bakshi M V,0901EE211013,AKSHITA MISHRA
+2023-01-17 16:20:57,SC036246,Programming through C++ (Ranade A G),Ranade A G,0901EE211047,GEETANJALI YADAV
+2023-01-17 16:23:29,Sc036536,Electronic Devices and Circuits (Salivahanan S),Salivahanan S,0901ET211008,ANKITA YADAV
+2023-01-17 16:24:17,Sc036578,Electronic Devices and Circuits (Salivahanan S),Salivahanan S,0901ET211017,BHAVNA SHRIVASTAVA
+2023-01-17 16:24:53,LG033071,Cryptography and Network Security,Stalling William,0901AD211032,NIKHILESH MEWARA
+2023-01-17 16:26:19,TP004906,Communication Engineering,Chitode J S,0901ET211043,PRAKHAR CHOUKSEY
+2023-01-17 16:26:30,SC019914,Introduction To Solid State Physics,"Kittel, C.",0901ET211043,PRAKHAR CHOUKSEY
+2023-01-17 16:27:13,SC015556,Electric Machines,"Kothari, D.P.",0901EE211059,KHUSHI MANGAL
+2023-01-17 16:27:21,SC030260,Microprocessor and Its Applications,Theagarajan R.,0901EE211059,KHUSHI MANGAL
+2023-01-17 16:27:52,SC023553,Theory of Computation,"Sipser, M.",0901MC211045,POORNIKA SHARMA
+2023-01-17 16:30:42,SC021722,Cryptography & Network Security,"Stallings, W.",0901MC211018,ASMITA PATHAK
+2023-01-17 16:30:52,SC032343,Computer System Architecture,"Mano ,M.M.",0901MC211018,ASMITA PATHAK
+2023-01-17 16:32:58,SC024814,Theory of Computer Science,"Mishra, K.L.P.",0901CD211052,SEJAL GUPTA
+2023-01-17 16:33:04,TP002396,Data Communication and Networking,Forouzan B A,0901CD211052,SEJAL GUPTA
+2023-01-17 16:33:25,SC028928,Cryptography and Network Security,"Stallings, W.",0901MC211067,VIVEK MEHTA
+2023-01-17 16:33:33,SC006783,Introduction to the Theory of Computation,"Sipser, michael",0901MC211067,VIVEK MEHTA
+2023-01-17 16:33:44,TP004668,Electrical Machines -1,Bakshi M V,0901EE211055,JHANVI GAUR
+2023-01-17 16:35:24,SC033181,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901ET211021,DEEPIKA MAHESHWARI
+2023-01-17 16:35:50,SC036187,Programming through C++ (Ranade A G),Ranade A G,0901ET211021,DEEPIKA MAHESHWARI
+2023-01-17 16:36:40,TP004630,Electrical Machines -1,Bakshi M V,0901EE211008,ADARSH TIWARI
+2023-01-17 16:37:38,TP004660,Electrical Machines -1,Bakshi M V,0901EE211084,RADHA SHARMA
+2023-01-17 16:39:39,TP004649,Electrical Machines -1,Bakshi M V,0901EE211093,RISHABH MALVIYA
+2023-01-17 16:40:05,SC013514,Electric Machines,Kothari D P,0901EE211008,ADARSH TIWARI
+2023-01-17 16:44:11,SC026131,Advance Engineering Mathematics,Kreyszig Ervin,0901EC211029,APOORV DIXIT
+2023-01-17 16:49:10,SC026421,The Design & Analysis of Computer Algorithm,AHO/ Ullman,0901MC211058,SHAILY SINGH
+2023-01-17 16:49:19,SC030053,Theory of Computer Science,"Mishra , K.L.P.",0901MC211058,SHAILY SINGH
+2023-01-17 16:49:34,SC030506,Cryptography and Information Security,Pachghare V.K.,0901MC211061,SONALI PATEL
+2023-01-17 16:49:39,TP002308,Introduction to Langauages and Theory of Computation,Martin J C,0901MC211061,SONALI PATEL
+2023-01-17 16:49:47,SC014844,Design Methocs and Neural Networks,"Basu, S.K.",0901MC211061,SONALI PATEL
+2023-01-17 16:50:00,SC007599,Discrete Time Control Systems,"Ogata, K.",0901MC211042,NEHA KARAMCHANDANI
+2023-01-17 16:50:07,SC029275,Theory of Computer Science,"Mishra, K.L.P.",0901MC211042,NEHA KARAMCHANDANI
+2023-01-17 16:59:49,TP004670,Electrical Machines -1,Bakshi M V,0901EE211023,ARJUN GUPTA
+2023-01-17 17:09:14,SC032408,Principles of Technique of Biochemistry and Molecular Biology,Wilson,0901EE211131,YASH DWIVEDI
+2023-01-17 17:09:33,TP001621,Soil Mechanics and Foundations,Punamia B C,0901CE211106,SHAILENDRA DHAKAD
+2023-01-17 17:09:44,SC027755,Water Resources Engineering,"Wurbs , R.A./ James",0901CE211106,SHAILENDRA DHAKAD
+2023-01-17 17:10:40,SC022846,Water Resources Engineering,"Wurbs, r.A./James, W.R.",0901CE211110,SHREYANSH TIWARI
+2023-01-17 17:11:05,SC018412,Microprocessor Architechture Programming & Application,"Gaonkar, Ramesh",0901EE211115,SONULAL GUPTA
+2023-01-17 17:11:39,ST023509,Object Oriented Programming in C++,"Balagursamy , E.",0901ET201020,Govind Savita
+2023-01-17 17:13:38,TP005446,Information Theory Coding & Cryptography,Bose Ranjana,0901AI211022,DEVANSH MANDELIYA
+2023-01-17 17:13:50,SC019113,Neural Networks In Computer Intelligence,Fu Limin,0901AI211022,DEVANSH MANDELIYA
+2023-01-17 17:14:03,SC032338,Computer System Architecture,"Mano ,M.M.",0901AI211022,DEVANSH MANDELIYA
+2023-01-17 17:15:08,SC023772,Geotechnical Engineering,"Das, B.M.",0901CE211110,SHREYANSH TIWARI
+2023-01-17 17:25:12,SC018042,Thermodynamics,Cengel/Boles,0901ME211028,DEV KUMAR SAHU
+2023-01-17 17:25:20,SC016097,Design of Machinery,"Nortan,Robort",0901ME211028,DEV KUMAR SAHU
+2023-01-17 17:25:34,SC031103,Engineering Chemistry,"Chawla , Shashi",0901ME211028,DEV KUMAR SAHU
+2023-01-17 17:25:52,SC018503,Engineering Thermodynamics,Nag. P.K.,0901ME211040,JAYANT JAIN
+2023-01-17 17:26:06,SC023184,Higher Engineering Mathematics,"Grewal, B.S.",0901ME211040,JAYANT JAIN
+2023-01-17 17:27:47,SC028818,Civil Engineering (objective Type),"Reddy , P.J.R.",0901CE211122,VIVEK DHAKAD
+2023-01-17 17:30:35,LG033372,Thermodynamics,Cengel Y A,0901ME211047,LOVE SINGH
+2023-01-17 17:30:45,SC031011,Design of Machine Elements,"Bhandari, V.B.",0901ME211047,LOVE SINGH
+2023-01-17 17:31:07,SC022114,Thermodynamics,"Cengel, Yunus A.",0901ME211027,DEEPAK SINGH
+2023-01-17 17:33:06,SC025208,Geotechnical Engineering,Venkatramaian C.,0901CE211117,SUYASH GOYDANI
+2023-01-17 17:39:24,SC009307,Modern Power System Analysis,Nagrath/Gopal,0901EE211081,PAVAN DHAKAD
+2023-01-18 10:17:09,SC014529,Engineering Materials,"Rangwala, S C",0901AR221006,DEEPAK PATEL
+2023-01-18 10:17:17,SC033689,Basic Civil Engineering & Engineering Mechanics,Dwivedi K K,0901AR221006,DEEPAK PATEL
+2023-01-18 10:28:15,SC024771,Data Structures (S.Series),"Lipschutz , S.",0901CA221005,AKANSHA SINGH RAJAWAT
+2023-01-18 10:28:24,SC009641,Operating Systems,"Deitel, H.M.",0901CA221005,AKANSHA SINGH RAJAWAT
+2023-01-18 11:45:59,SC037637,Basic Electrical Engineering (Kothari D P),Kothari D P,0901EC221148,VEDANT GUPTA
+2023-01-18 12:03:21,SC029756,Electronics Devices and Circuit Theory,"Boylestad , R.L.",0901EC221155,YASH SHRIVASTAVA
+2023-01-18 12:10:13,TP002026,Object Oriented Programming with C++,Balagurusamy E,0901IO221051,POORVI SHRIVASTAVA
+2023-01-18 12:12:27,LG032414,Object Oriented Programming in C++,"Balagursamy , E.",0901CE221044,ISHANT SHARMA
+2023-01-18 14:01:35,SC033657,Basic Civil Engineering & Engineering Mechanics,Dwivedi K K,0901ME221069,TANMAY GARG
+2023-01-18 14:01:44,SC032812,Object Oriented Programming With  C++,Balagurusamy E,0901ME221069,TANMAY GARG
+2023-01-18 14:01:59,SC035085,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901CE221032,GAURAV SHARMA
+2023-01-18 14:02:17,SC035201,Basic Mechanical Engineering (Nag P K),Nag P K,0901ME221061,SHREYANSH JAIN
+2023-01-18 14:02:22,TP002063,Object Oriented Programming with C++,Balagurusamy E,0901ME221061,SHREYANSH JAIN
+2023-01-18 14:04:12,SC035021,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221124,SOMYA KAPOOR
+2023-01-18 14:13:24,TP005809,Circuit Theory,Chakrabarti,0901EC221096,SADHNA KAURAV
+2023-01-18 14:13:36,TP005782,Circuit Theory,Chakrabarti,0901EC221016,ANUSHKA JAIN
+2023-01-18 15:06:12,TP004196,Electronic Devices and Circuits Theory,Boylestad R L,0901ET221054,RISHABH SIKARWAR
+2023-01-18 15:08:43,TP002036,Object Oriented Programming with C++,Balagurusamy E,0901AD221019,BHAVESH SHARMA
+2023-01-18 15:09:04,SC031998,Unit Operations of Chemical Engg,"Mccabe , W.L.",0901CM191018,ATHARVA JAIN
+2023-01-18 15:18:29,SC037674,Basic Electrical Engineering (Kothari D P),Kothari D P,0901EE221096,VINAY SINGH
+2023-01-18 15:18:35,Sc036982,Engineering Drawing (Bhatt N D ),Bhatt N D,0901EE221096,VINAY SINGH
+2023-01-18 15:19:07,SC034933,Engineering Chemistry (Sashi Chawla),Chawla S,0901ET221022,DIVYANSHI SAHU
+2023-01-18 15:19:17,SC027561,Network Theory,"Ghosh ,S.",0901ET221022,DIVYANSHI SAHU
+2023-01-18 15:19:22,SC037736,Basic Electrical Engineering (Kothari D P),Kothari D P,0901ET221022,DIVYANSHI SAHU
+2023-01-18 15:19:28,TP000682,Chemistry,Chawla Shashi,0901ET221022,DIVYANSHI SAHU
+2023-01-18 15:19:32,TP004202,Electronic Devices and Circuits Theory,Boylestad R L,0901ET221022,DIVYANSHI SAHU
+2023-01-18 15:21:58,SC004736,C++ Language Specification,Microsoft,0901MC221031,DEEPESH PAL
+2023-01-18 15:26:37,SC023597,C++ Programming Black Book,"Holzner, S.",0901AI221015,ARYAN AGRAWAL
+2023-01-18 15:26:49,SC033242,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901AI221015,ARYAN AGRAWAL
+2023-01-18 15:33:36,ST030888,Computer system Architecture,Morris Mano M,0901CS221063,KARAN SINGH GURANA
+2023-01-18 15:49:21,SC019245,Material Science & Engineerings,Rajput R.K.,0901EC221102,SALONI SRIVASTAVA
+2023-01-18 15:49:28,TP005836,Circuit Theory,Chakrabarti,0901EC221102,SALONI SRIVASTAVA
+2023-01-18 15:53:53,SC008073,Operating Systems,"Deitel, H.M.",0901CA221049,RAHUL RAJAK
+2023-01-18 15:54:24,TP002139,Data Structures and Algorithms,Pai G A V,0901CA221043,PRANJAL SENGAR
+2023-01-18 15:54:30,SC010570,Operating Systems,"Deitel, H.M.",0901CA221043,PRANJAL SENGAR
+2023-01-18 15:54:39,TP002233,Database System Concepts,Silberschatz A,0901CA221043,PRANJAL SENGAR
+2023-01-18 15:57:44,SC034961,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221088,RIKKI RAJAK
+2023-01-18 16:02:49,SC030760,Advanced Engineering Mathematics,"Dass , H.K.",0901ET223D05,VIKESH DHAKAD
+2023-01-18 16:02:54,TP004894,Communication Engineering,Chitode J S,0901ET223D05,VIKESH DHAKAD
+2023-01-18 17:09:49,TP005812,Circuit Theory,Chakrabarti,0901ET221029,JOGENDRA USRETHE
+2023-01-18 17:10:22,TP004194,Electronic Devices and Circuits Theory,Boylestad R L,0901ET221074,VANSH SHRIVASTAVA
+2023-01-18 17:10:36,TP005810,Circuit Theory,Chakrabarti,0901ET221074,VANSH SHRIVASTAVA
+2023-01-18 17:11:35,SC029909,Data Structures with C,"Lipschutz , S.",0901CA221025,DIMSHI JAIN
+2023-01-18 17:12:03,SC029916,Data Structures,"Lipschutz , S.",0901CA221007,AKRATI JAIN
+2023-01-18 17:31:42,TP003382,Manufacturing Technology Vol-2,Rao P N,0901ME223D04,ARJOO PRATAP SINGH
+2023-01-18 17:31:57,SC000916,Higher Engineering Mathematics,Grewal,0901ME223D04,ARJOO PRATAP SINGH
+2023-01-18 17:32:03,TP002732,Design of Machine Elements,Bhandari V B,0901ME223D04,ARJOO PRATAP SINGH
+2023-01-18 17:32:11,SC016101,Design of Machinery,"Nortan,Robort",0901ME223D04,ARJOO PRATAP SINGH
+2023-01-18 17:32:21,SC030660,Engineering Physics,"Gupta ,S.L. / Gupta S.",0901ME223D04,ARJOO PRATAP SINGH
+2023-01-18 17:32:36,TP001708,Building Construction,Punamia B C,0901CE221047,KARTIK DWIVEDI
+2023-01-19 10:50:43,ST030961,Manufacturing Technology - Vol-II,"Rao , P.N.",0901ME211052,MOHIT PALLAIYA
+2023-01-19 10:50:56,ST025035,Mechanical Engineering Design,Shigley J.E.,0901ME211052,MOHIT PALLAIYA
+2023-01-19 11:06:52,ST029329,Object Oriented Programming,"Balagurusamy , E.",0901CD221045,PRIYANSHI JAYANT
+2023-01-19 11:07:02,ST031022,Theory & Practicals of Engineering Chemistry,Chawla Shashi,0901CD221045,PRIYANSHI JAYANT
+2023-01-19 11:09:51,ST030561,Basic Engineering Mathematics-III,"Dass, H.K.",0901CE211112,SHUBHAM DAS
+2023-01-19 11:49:32,ST025428,Structural Analysis,Pandit/ Gupta,0901CE211024,ANSHITA AHIRWAR
+2023-01-19 11:50:23,ST026916,Basic Structural Analysis,Reddy C.S.,0901CE211079,MUSKAN JAYANT
+2023-01-19 12:00:48,ST029394,Object Oriented Programming,"Balagurusamy , E.",0901IT223D01,ARYAMAN PAL
+2023-01-19 12:00:57,ST021357,Data Structures,Lipschutz S.,0901IT223D01,ARYAMAN PAL
+2023-01-19 12:01:06,ST030575,Basic Engineering Mathematics-III,"Dass, H.K.",0901IT223D01,ARYAMAN PAL
+2023-01-19 12:42:56,ST025819,Object Oriented Programming With C++,Balagurusamy E.,0901ME221002,AAYUSH CHHAPARIYA
+2023-01-19 12:43:53,ST030511,Basic Engineering Mathematics-III,"Dass, H.K.",0901CE223D11,SUNIL SINGAD
+2023-01-19 12:44:05,ST021131,Control System Engineering,Nagrath/ Gopal M.,0901CE223D11,SUNIL SINGAD
+2023-01-19 12:44:21,SC025522,Geotechnical Engineering,"Ramamurthy, T.N.",0901CE223D11,SUNIL SINGAD
+2023-01-19 13:54:00,ST029653,Fundamentals of Electrical  Engg & Electronics,"Theraja , B.L.",0901EC221105,SANJAY BISARIYA
+2023-01-19 13:54:21,TP004338,Network Theory,Ghosh S,0901EC221105,SANJAY BISARIYA
+2023-01-19 13:54:36,SC031112,Engineering Chemistry,"Chawla , Shashi",0901EC221105,SANJAY BISARIYA
+2023-01-19 14:05:02,SC016392,Digital Design,"Mano, Morris M.",2K12F042,Jai Mala Jha
+2023-01-19 14:21:14,ST022044,Introduction to Automata Theory Language and Computations,Hopcropt,0901CD211011,ARUN SINGH
+2023-01-19 15:26:25,SC010617,Modern Operating Systems,"Tanenbaum, A",0901CA221011,AMIT KOSHTA
+2023-01-19 15:26:51,SC003484,Operating Systems,Tanenbaum A.,0901CA221010,AMIT CHAURASIYA
+2023-01-19 15:39:37,ST026601,Software Engineering-II,Soni Manish,0901IO211032,NAINA SHAKYA
+2023-01-19 15:39:47,ST027661,Computer Architecture -I,Sishodia/Soni,0901IO211032,NAINA SHAKYA
+2023-01-19 15:40:04,ST026574,Cryptography & Network Security,Stalling,0901IO211032,NAINA SHAKYA
+2023-01-19 16:18:39,ST028235,Mechanical Vibrations,Rao,0901ME201058,Deepak Arya
+2023-01-19 16:18:53,ST028220,Refrigeration and Airconditioning,"Arora, C.P.",0901ME201058,Deepak Arya
+2023-01-19 16:19:34,ST022326,Refrigeration and Air Conditioning,Arora/ Domkundawar,0901ME201058,Deepak Arya
+2023-01-19 16:22:24,ST029856,Workshop Technology-I,"Choudhary, Hajra",0901CM221005,SANDEEP SINGH
+2023-01-19 16:24:37,ST029441,Basic Mechanical Engineering,"Rajput , R.K.",0901CM221005,SANDEEP SINGH
+2023-01-19 16:25:23,TP000633,Chemistry,Chawla Shashi,0901CS221140,UDAY CHHIROLIYA
+2023-01-19 16:56:36,ST024512,Modern Digital & Analog Communication System,Lathi B.P.,0901IT211017,DAKSH KURAICHYA
+2023-01-19 16:57:07,ST030174,Energy Environment Ecology & Society,Deswal S,0901ME221063,SHRIKANT RANA
+2023-01-19 16:57:21,ST030089,Basic Civil Engineering and Engineering Mechanics,Dwivedi / Shukla,0901ME221063,SHRIKANT RANA
+2023-01-19 16:57:40,ST026703,Object Oriented Programming With C++,Balagurusamy E.,0901ME221063,SHRIKANT RANA
+2023-01-19 17:06:17,ST022406,Microprocessor Architecture Programming and Application,"Gaonkar , R.S.",0901EE211106,SHIVAM RAI
+2023-01-19 17:06:29,ST030570,Basic Engineering Mathematics-III,"Dass, H.K.",0901EE211106,SHIVAM RAI
+2023-01-19 17:18:28,ST031284,Waste Water Engineering,Metcalf/ Eddy,0901CE213D08,RISHIKESH DIRWAL
+2023-01-19 17:18:50,ST023010,Design of Steel Structures,Ramamurtham,0901CE213D08,RISHIKESH DIRWAL
+2023-01-19 17:19:17,ST031190,Estimating and Costing in Civil Engineering,"Dutta , B.N.",0901CE213D08,RISHIKESH DIRWAL
+2023-01-19 17:27:17,ST030503,Basic Engineering Mathematics-III,"Dass, H.K.",0901IT211039,PRABHAT UIKEY
+2023-01-19 17:27:53,ST024753,Software Engineering 6th Ed.,Pressman R.S.,0901IT211039,PRABHAT UIKEY
+2023-01-19 17:28:04,ST023445,Computer Networks,Tanenbaum A.S.,0901IT211039,PRABHAT UIKEY
+2023-01-20 11:56:28,TP002021,Programming with C++,Ravichandran D,0901CM201006,Amey Rakhe
+2023-01-20 12:10:24,SC036339,Programming through C++ (Ranade A G),Ranade A G,0901CE221040,HARSHIT TIWARI
+2023-01-20 12:10:51,SC034721,Energy Environment Ecology & Society,Deswal S,0901CE221040,HARSHIT TIWARI
+2023-01-20 12:11:02,TP001724,Building Construction,Punamia B C,0901CE221040,HARSHIT TIWARI
+2023-01-20 12:12:39,SC029679,Estimating and Costing in Civil Engineering,"Dutta, B.N.",0901CE201115,Varshney
+2023-01-20 12:12:56,SC029724,Waste Water Engineering,Metcalf/ Eddy,0901CE201115,Varshney
+2023-01-20 12:14:09,SC027792,Design of Steel Structures,"Subramanian , N.",0901CE201115,Varshney
+2023-01-20 12:24:57,TP004140,CMOS Vlsi Design,Weste N H E,0901EC201127,Utkarsh Tripathi
+2023-01-20 12:25:12,SC032215,The Complete Reference JAVA 2,"Schildt , H.",0901EC201127,Utkarsh Tripathi
+2023-01-20 12:25:41,TP002570,Artificial Intelligence,Rich & Knoght,0901EC201107,Shivansh Dwivedi
+2023-01-20 12:25:56,TP004130,CMOS Vlsi Design,Weste N H E,0901EC201107,Shivansh Dwivedi
+2023-01-20 12:26:12,TP003890,Digital Signal Processing,Proakis J G,0901EC201107,Shivansh Dwivedi
+2023-01-20 12:26:26,TP002013,Programming with C++,Ravichandran D,0901EC201107,Shivansh Dwivedi
+2023-01-20 14:06:47,SC030333,Sewage Disposal And Air Pollution Engineering,"Garg , S.K.",0901CE201005,Sikarwar
+2023-01-20 14:06:54,TP003352,Limit State Design of Steel Structure,Duggal S K,0901CE201005,Sikarwar
+2023-01-20 14:07:41,SC030330,Sewage Disposal And Air Pollution Engineering,"Garg , S.K.",0901CE201023,Yadav
+2023-01-20 14:33:27,SC031283,Software Engineering Concepts,"Fairley, R.",0901CS211101,SHIVAM KUMAR
+2023-01-20 14:33:43,SC025809,Discrete Mathematics For Computer Scientist & Mathematicians,Mott Joel & Kandel,0901CS211101,SHIVAM KUMAR
+2023-01-20 14:33:55,TP002439,Data Communication and Networking,Forouzan B A,0901CS211101,SHIVAM KUMAR
+2023-01-20 14:34:14,SC021514,Database Systems,"Date, C.J.",0901CS211101,SHIVAM KUMAR
+2023-01-20 14:37:31,SC025413,Power Systems Protection & Switchgear,Badri Ram,0901EE201025,Anushka Jain
+2023-01-20 15:11:29,SC027582,Basic VLSI Design,"Pucknell, D.A.",0901ET201061,Surya Pratap Singh Pawaiya
+2023-01-20 15:11:43,LG033165,Digital Signal Processing,Kumar Anand A,0901ET201061,Surya Pratap Singh Pawaiya
+2023-01-20 15:13:52,SC021173,Handbook of Designing and Installation Services in High rise Building Complex,"Jain, V.K.",0901EE201113,Shakti Pandey
+2023-01-20 16:28:00,SC021181,Handbook of Designing and Installation Services in High rise Building Complex,"Jain, V.K.",0901ME201022,Alok Sharma
+2023-01-20 16:28:16,SC023141,Compiler Design,"Kakde, O.G.",0901MC201001,Akash Gaur
+2023-01-20 16:28:37,SC003568,Data Mining,Han J./karnber,0901MC201001,Akash Gaur
+2023-01-20 16:28:55,SC030894,Computer Graphics,Hearn / Baker,0901MC201001,Akash Gaur
+2023-01-20 16:29:31,LG026828,Compute Graphics,Steven Harrington,0901MC201054,Sanjay Patel
+2023-01-20 16:29:49,SC023142,Compiler Design,"Kakde, O.G.",0901MC201054,Sanjay Patel
+2023-01-20 16:30:01,SC023722,Data Mining Techniques,"Pujari, A.K.",0901MC201054,Sanjay Patel
+2023-01-20 16:30:12,SC030876,Introduction to Data Mining,Tan P.N./ Vipin Kumar,0901MC201054,Sanjay Patel
+2023-01-20 16:53:54,SC022565,Vibrations,"Balachandran, B.",0901ME201137,Aditya Pratap Singh Bhadoria
+2023-01-20 16:54:12,TP002793,Referigeration and Air Conditioning,Arora C P,0901ME201137,Aditya Pratap Singh Bhadoria
+2023-01-20 17:01:13,TP001184,Sewage Disposal & Air Pollution Engineering Vol-2,Garg S K,0901CE201072,Shrivastava
+2023-01-20 17:02:18,SC024406,Thermodynamics,"Cengel , Y.A./Boles",0901ME201112,Salman Khan
+2023-01-20 17:02:32,SC020732,Fluid Mechanics,"Kapoor, B.S.",0901ME201112,Salman Khan
+2023-01-20 17:17:20,SC028724,Civil Engineering,"Saikia , M.D.",2K12S069,Mahesh Ohja
+2023-01-20 17:28:51,SC025481,Design of Steel Structures,"Dayaratnam , P.",0901CE201071,Rathore
+2023-01-23 15:11:24,ST008812,Vibration & Noise for Engineering,Pujara,0901ME201070,Harshit Verma
+2023-01-23 15:11:43,ST024856,Refrigeration And Air Conditioning,Arora C.P.,0901ME201070,Harshit Verma
+2023-01-23 15:18:21,ST026663,Data Structures,Lipschutz S.,0901ME201058,Deepak Arya
+2023-01-23 15:47:18,TP004964,Fuzzy Logic With Engineering Application,Ross T J,0901EC201138,Yash Agrawal
+2023-01-23 15:47:37,TP004962,Fuzzy Logic With Engineering Application,Ross T J,0901EC201137,Vivek Sharma
+2023-01-23 15:47:51,SC029895,Data Structures with C++,Hubbard J.R.,0901EC201137,Vivek Sharma
+2023-01-23 15:48:57,ST031576,Data Mining,"Han, Jiawei",0901EE201012,Aditya Mahore
+2023-01-23 15:50:29,ST030910,Operating Systems,"Tanenbaum , A.S.",0901EE201012,Aditya Mahore
+2023-01-23 15:50:49,ST024709,Data Structures,Lipschutz S.,0901EE201012,Aditya Mahore
+2023-01-23 15:54:33,ST030393,Fluid Mechanics & Hydraulic Machines,"Bansal , R.K.",0901ME203D09,Ranjeet
+2023-01-23 15:54:50,ST026693,Engineering Thermodynamics,Nag P.K.,0901ME203D09,Ranjeet
+2023-01-23 15:55:01,ST022268,Strength of Materials,khurmi R.S.,0901ME203D09,Ranjeet
+2023-01-23 16:02:44,ST019059,Linear Control Systems,Manke B S,0901EE201056,Himanshu Arya
+2023-01-23 16:03:05,ST026662,Data Structures,Lipschulz Seymour,0901EE201056,Himanshu Arya
+2023-01-23 16:19:21,ST031432,Data Mining,"Han, Jiawei",0901MC201063,Siddharth
+2023-01-23 17:12:51,ST023922,Data Mining: Concepts & Techniques,Han J/ Kamber,0901CE201030,Shakya
+2023-01-23 17:19:59,ST031682,Sewage Disposal & Air Pollution Engineering,"Garg, S.K.",0901CE201030,Shakya
+2023-01-24 14:35:26,TP004884,Communication Engineering,Chitode J S,0901EC211133,VAIBHAV AGRAWAL
+2023-01-24 14:46:56,SC014549,Irrigation Engineering and Hydraulic Structure,"Garg, S K",0901CE211101,SAISHA SINHA
+2023-01-24 14:47:15,SC028514,Soil Mechanics and Foundation,"Punmia , B.C.",0901CE211101,SAISHA SINHA
+2023-01-24 14:47:20,TP003106,Engineering Hydrology,Subramanya K,0901CE211101,SAISHA SINHA
+2023-01-24 14:47:34,LG031250,Basic Structural Analysis,"Reddy, C S",0901CE211075,MEENESH RAWAT
+2023-01-24 14:53:59,SC030127,Communication Systems,Latni B.P.,0901EC211017,AMAN GUPTA
+2023-01-24 14:54:32,SC026269,Linear Integrated Circuits,Salivahanan/ Bhaskar,0901EC211017,AMAN GUPTA
+2023-01-24 15:02:54,TP003206,Basic Structural Analysis,Reddy C S,0901CE211030,ASHUTOSH BAGHEL
+2023-01-24 15:03:10,SC027705,Geotechnical Engineering,"Ramamurthy, T.N.",0901CE211030,ASHUTOSH BAGHEL
+2023-01-24 15:03:17,SC007409,Water Resources Engineering,"Subramanya, K.",0901CE211030,ASHUTOSH BAGHEL
+2023-01-24 15:03:48,LG032558,Soil Mechanics and Foundation Engineering,"Arora , K.R.",0901CE211030,ASHUTOSH BAGHEL
+2023-01-24 15:04:07,TP003240,Basic Structural Analysis,Reddy C S,0901CE211008,ADARSH SINGH
+2023-01-24 15:04:13,TP003091,Engineering Hydrology,Subramanya K,0901CE211008,ADARSH SINGH
+2023-01-24 15:04:26,SC007359,Geotechnical Engineering,"Venkatramaiah, C.",0901CE211008,ADARSH SINGH
+2023-01-24 15:17:30,TP003782,Control System Engineering,Nagrath & Gopal,0901EE201049,Harsh Goyal
+2023-01-24 15:23:03,SC010485,Introduction to Microprocessors,"Mathur, Aditya P.",0901EE211089,RAJKUMAR PRASAD
+2023-01-24 15:23:08,SC032271,Electrical Machines,"Mukherjee , P.K.",0901EE211089,RAJKUMAR PRASAD
+2023-01-24 15:23:14,SC018902,Power System Optimization,Kothari/Dhillon,0901EE211089,RAJKUMAR PRASAD
+2023-01-24 15:23:44,TP003780,Control System Engineering,Nagrath & Gopal,0901EE211135,YUKTI CHALISGAONKAR
+2023-01-24 15:24:00,SC025241,Electric Machines,Kothari/Nagrath,0901EE211045,DURGESH SEN
+2023-01-24 15:24:16,TP004626,Electrical Machines -1,Bakshi M V,0901EE211005,ABHISHEK RAJPUT
+2023-01-24 15:24:36,TP000146,Chemical Equipment Design,Bhattacharya B C,0901CM211012,RICHA GARG
+2023-01-24 15:24:41,TP003035,Mass Transfer Operation,Treybal R E,0901CM211012,RICHA GARG
+2023-01-24 15:24:46,SC006457,Heat Transfer,"Dutta, Binay k.",0901CM211012,RICHA GARG
+2023-01-24 15:25:06,SC018650,Refrigeration And Air Conditioning,Arora C.P.,0901ME213D02,DARSHAN MANDLOI
+2023-01-24 15:25:27,SC026517,All of C,Ghosh S.,0901ET211052,SANSKRITI BISEN
+2023-01-24 15:25:32,SC027969,Communication Systems,NIIT,0901ET211052,SANSKRITI BISEN
+2023-01-24 15:25:38,TP004730,Control Systems,Bakshi U A,0901ET211052,SANSKRITI BISEN
+2023-01-24 15:25:44,SC027989,Op-Amps & Linear Integrated Circuits,"Gayakwad , R.A.",0901ET211052,SANSKRITI BISEN
+2023-01-24 15:26:04,TP003050,Mass Transfer Operation,Treybal R E,0901CM211008,NIKHIL SINGH
+2023-01-24 15:26:23,SC024982,Linear Control Systems,"Manke, B.S.",0901ET211060,SUHANI JAIN
+2023-01-24 15:26:29,SC021225,Communication Systems,Niit,0901ET211060,SUHANI JAIN
+2023-01-24 15:26:34,TP003882,Op-Amps and Linera Integrated Circuits,Gayakwad R A,0901ET211060,SUHANI JAIN
+2023-01-24 15:27:19,TP002742,Design of Machine Elements,Bhandari V B,0901ME211085,SUMIT SINGH THAKUR
+2023-01-24 15:27:24,SC019672,Engineering Thermodynamics,"Nag, P.K",0901ME211085,SUMIT SINGH THAKUR
+2023-01-24 15:27:29,TP001382,Higher Engineering Mathematics,"Grewal, B S",0901ME211085,SUMIT SINGH THAKUR
+2023-01-24 15:27:49,SC033328,Fundamentals of Electrical Engineering and Electronics,Theraja B L,ARJPD1904A,Pawan Dubey
+2023-01-24 15:28:15,TP003228,Basic Structural Analysis,Reddy C S,0901CE211117,SUYASH GOYDANI
+2023-01-24 15:28:19,TP001041,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211117,SUYASH GOYDANI
+2023-01-24 15:28:25,TP001641,Soil Mechanics and Foundations,Punamia B C,0901CE211117,SUYASH GOYDANI
+2023-01-24 15:29:15,TP003248,Basic Structural Analysis,Reddy C S,0901CE211108,SHIVAM SAHU
+2023-01-24 15:29:19,TP003103,Engineering Hydrology,Subramanya K,0901CE211108,SHIVAM SAHU
+2023-01-24 15:29:24,TP001060,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211108,SHIVAM SAHU
+2023-01-24 15:29:30,TP001643,Soil Mechanics and Foundations,Punamia B C,0901CE211108,SHIVAM SAHU
+2023-01-24 15:30:05,TP003079,Engineering Hydrology,Subramanya K,0901CE211072,MADHVENDRA SONI
+2023-01-24 15:30:10,TP001048,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE211072,MADHVENDRA SONI
+2023-01-24 15:30:33,SC017469,Theory Of Structure,Ramamrutham S.,0901CE211049,DHRUV SHARMA
+2023-01-24 15:30:48,SC032900,Object Oriented Programming With  C++,Balagurusamy E,0901EE211115,SONULAL GUPTA
+2023-01-24 15:31:04,SC024568,Machine Design,"Sharma, P.C.",0901ME211084,SUJEET GOSWAMI
+2023-01-24 15:31:08,SC028214,Thermodynamics,"Arora ,C.P.",0901ME211084,SUJEET GOSWAMI
+2023-01-24 15:31:13,SC026307,Higher Engineering Mathematics,"Grewal ,B.S.",0901ME211084,SUJEET GOSWAMI
+2023-01-24 15:31:32,SC027476,Higher Engineering Mathematics,"Grewal , B.S.",0901ME211076,SHIROMANI PRATAP SINGH
+2023-01-24 15:31:40,SC016211,Manufacturing Technology :  Metal Cutting,Rao. P.N.,0901ME211076,SHIROMANI PRATAP SINGH
+2023-01-24 15:31:47,SC028213,Thermodynamics,"Arora ,C.P.",0901ME211076,SHIROMANI PRATAP SINGH
+2023-01-24 15:35:09,SC003535,Computer Net Working,Kurose J.F.,0901IT211050,SHIVANI OJHA
+2023-01-24 15:35:17,SC030895,Computer Graphics,Hearn / Baker,0901IT211050,SHIVANI OJHA
+2023-01-24 15:50:04,TP002306,Introduction to Langauages and Theory of Computation,Martin J C,0901CS211054,ISHITAA DHINGRA
+2023-01-24 15:50:10,SC032129,Discrete Mathematical Structure s with applications to computer Science,"Tremblay , J.P.",0901CS211054,ISHITAA DHINGRA
+2023-01-24 15:50:17,SC026209,Data Communications and Networking,"Forouzan ,B.A.",0901CS211054,ISHITAA DHINGRA
+2023-01-24 15:50:24,SC004827,Database Management Systems,Ramkrishnan,0901CS211054,ISHITAA DHINGRA
+2023-01-24 16:01:30,SC004984,0000 To 8085 Introduction To Microprocessor For Engineer & Scientists,Ghose/ Sridhar,0901AI211046,OM TIWARI
+2023-01-24 16:01:44,SC011716,Crystography and Network Security,"Stalling, William",0901AI211046,OM TIWARI
+2023-01-24 16:01:56,SC026366,Computer System Architecture,Mano M.M.,0901AI211046,OM TIWARI
+2023-01-24 16:03:48,SC013267,Fundamentals of Engineering Thermodynamics,Shapiro,0901ME211081,SOHAM SEWALKAR
+2023-01-24 16:03:53,TP001832,Mechanical Engineering Design,Shigley's,0901ME211081,SOHAM SEWALKAR
+2023-01-24 16:04:10,SC031509,Irrigation water Management,"Majumdar , D.K.",0901CE211003,AASTHA VERMA
+2023-01-24 16:04:35,SC022732,Water Supply Engineering,"Garg, S.K.",0901CE211003,AASTHA VERMA
+2023-01-24 16:08:38,TP004653,Electrical Machines -1,Bakshi M V,0901EE211085,RADHIKA SHARMA
+2023-01-24 16:08:48,SC026323,Power System Optimization,"Kothari , Dhillon",0901EE211085,RADHIKA SHARMA
+2023-01-24 16:34:34,SC036109,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211012,RICHA GARG
+2023-01-24 16:34:47,SC030769,Higher Engineering Mathematics,"Grewal , B.S.",0901CM211012,RICHA GARG
+2023-01-24 16:35:01,SC036075,Process Instrumentation and Control (Kularni A P),Kulkarni A P,0901CM211010,NUPUR BERA
+2023-01-24 16:37:41,TP002422,Software Engineering,Pressman R S,0901AD211053,SAURABH SINGH GURJAR
+2023-01-24 16:37:51,LG033018,Cryptography and Network Security,Forouzan Behouz A,0901AD211053,SAURABH SINGH GURJAR
+2023-01-24 16:40:51,SC027131,Control System Engineering,"Nise, N.S.",0901EC211098,RAJAT SADANA
+2023-01-24 16:41:03,TP004204,Electronic Devices and Circuits Theory,Boylestad R L,0901EC211098,RAJAT SADANA
+2023-01-24 16:46:02,SC016166,Thermodynamics,"Arora,C.P.",0901ME211083,SUDHIR SINGH PATEL
+2023-01-24 17:01:09,SC031162,Thermal Engineering,"Rajput , R.K.",0901AU211015,SHIVANSH SHIVHARE
+2023-01-24 17:11:37,SC016293,Communication Systems,"Haykin, Simmon",0901ET211067,YUVRAJ SONI
+2023-01-24 17:11:47,TP001462,Higher Engineering Mathematics,"Grewal, B S",0901ET211067,YUVRAJ SONI
+2023-01-24 17:16:07,SC021370,Theory of Machines,"Shariff, A.",0901AU211003,ANIRUDDHA MISHRA
+2023-01-24 17:16:16,SC022511,Thermodynamics,Cengel/Boles,0901AU211003,ANIRUDDHA MISHRA
+2023-01-24 17:16:41,SC029578,Automobile Engineering-I,"Singh, Kirpal",0901AU211011,ROHAN PATEL
+2023-01-24 17:16:49,TP002750,Thermodynamics,Cengel Y A,0901AU211011,ROHAN PATEL
+2023-01-24 17:17:02,SC009980,Theory of Machines,"Rattan, S.S.",0901AU211011,ROHAN PATEL
+2023-01-25 11:25:00,SC027892,Basic Electrical Engineering,"Gupta ,J.B.",0901EE221055,PRANJAL SHARMA
+2023-01-25 11:56:48,LG022179,Advanced Mathematics for Engineering And Science Vol-I,Sharma,0901MC221015,ANUPAM AWASTHI
+2023-01-25 11:56:54,TP005037,Probability and Statistics for Engineers,Ravichandran J,0901MC221015,ANUPAM AWASTHI
+2023-01-25 12:04:32,SC033396,Fundamentals of Electrical Engineering and Electronics,Theraja B L,0901EC221141,TEJENDRA BANSAL
+2023-01-25 12:13:43,TP004453,Fundamental of Electrical Engineering & Electronics,Gupta J B,0901EE221031,GAGAN CHOUDHARY
+2023-01-25 12:14:30,SC019387,Basic Electrical & Electronic Engineering,Gupta J.B.,0901EC221030,AYUSHI SINGH PARIHAR
+2023-01-25 12:14:44,SC035027,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221030,AYUSHI SINGH PARIHAR
+2023-01-25 12:14:50,TP003839,Network Analysis,VanValkenburg,0901EC221030,AYUSHI SINGH PARIHAR
+2023-01-25 12:15:17,TP006307,Integrated Electronics,Millman & Halkias,0901EC221035,DEVANSHI VERMA
+2023-01-25 12:15:26,SC034993,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221035,DEVANSHI VERMA
+2023-01-25 12:15:45,SC005418,The C++ Programming Langugae,"Stroustrup, B",0901ET221049,PRIYANSHU VERMA
+2023-01-25 12:17:21,SC034930,Engineering Chemistry (Sashi Chawla),Chawla S,0901CD221022,CHETAN GOYAL
+2023-01-25 12:37:24,SC035029,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221116,SHRIYESH SHUKLA
+2023-01-25 12:38:02,LG033159,Network Theory Analysis & Synthesis,"Ghosh, S.",0901EC221113,SHIVANSH SHARMA
+2023-01-25 12:38:15,SC034925,Engineering Chemistry (Sashi Chawla),Chawla S,0901EC221113,SHIVANSH SHARMA
+2023-01-25 15:41:51,SC027606,Network Theory Analysis and Synthesis,"Ghosh ,S.",0901EC221059,MANSI LODHI
+2023-01-25 15:41:57,Sc036791,Electronic Devices and Circuits (Salivahanan S),Salivahanan S,0901EC221059,MANSI LODHI
+2023-01-25 15:42:45,SC030445,Building Materials,"Gambhir , M.L.",0901AR221012,KSHITIJ PATEL
+2023-01-25 16:12:47,SC029887,Programming With C,"Gottfried ,B.",0901MC221041,KHUSHI HURA
+2023-01-25 16:13:39,SC024836,Programming in ANSI C,"Balagurusamy , E.",0901MC221077,VIKASH KUMAR JHA
+2023-01-25 16:13:57,SC034138,Basic Engineering Mathematics (Dass H K),Dass H K,0901MC221077,VIKASH KUMAR JHA
+2023-01-25 16:14:12,SC035151,Basic Computer Engineering (Balaguruswamy E),Balagurusamy E,0901MC221077,VIKASH KUMAR JHA
+2023-01-25 16:15:47,SC033393,Fundamentals of Electrical Engineering and Electronics,Theraja B L,0901EE221087,SUMIT KUSHWAH
+2023-01-25 16:26:25,SC023243,Mastering C,"Venugopal, K.R.",0901MC221019,ARNAV SHRIVASTAVA
+2023-01-25 16:31:11,TP004658,Electrical Machines -1,Bakshi M V,0901EE223D01,DIVYANI LOKHANDE
+2023-01-25 16:31:17,TP003585,Modern Power System Analysis,Kothari & Nagrath,0901EE223D01,DIVYANI LOKHANDE
+2023-01-25 16:33:17,SC034070,Basic Engineering Mathematics (Dass H K),Dass H K,0901AM221051,PRARTHANA MORE
+2023-01-25 16:33:38,SC033003,Engineering Chemistry (Sashi Chawla),Chawla S,0901AM221051,PRARTHANA MORE
+2023-01-25 16:33:53,SC029344,Advanced Engineering Mathematics,"Dass, H.K.",0901AM221051,PRARTHANA MORE
+2023-01-25 16:35:14,SC024933,Network Analysis,Vanvalkenburg,0901ET221045,PRAVEEN GIRI
+2023-01-25 16:35:28,SC019377,Basic Electrical & Electronic Engineering,Gupta J.B.,0901ET221045,PRAVEEN GIRI
+2023-01-25 16:35:36,SC028589,Electronic Devices and Circuit Theory,"Boylestad , R.L.",0901ET221045,PRAVEEN GIRI
+2023-01-25 16:35:53,SC034296,Basic Engineering Mathematics (Dass H K),Dass H K,0901MC221069,SUHANI CHAUDHARY
+2023-01-25 16:36:01,LG019743,Basic Course in Statistics,Clark G M,0901MC221069,SUHANI CHAUDHARY
+2023-01-25 16:40:51,ST031077,Control System Design,"Manke , B.S.",0901ET211057,SHUBHAM KUMAR
+2023-01-25 16:40:58,ST030912,Communication Systems,Haykin S.,0901ET211057,SHUBHAM KUMAR
+2023-01-25 16:41:05,ST030918,Communication Systems : Analog & Digital,Singh/ Sapre S.D.,0901ET211057,SHUBHAM KUMAR
+2023-01-25 16:41:14,ST024470,Control System Engineering,Nise N.S.,0901ET211057,SHUBHAM KUMAR
+2023-01-25 16:41:21,ST030603,Basic Engineering Mathematics-III,"Dass, H.K.",0901ET211057,SHUBHAM KUMAR
+2023-01-25 16:42:11,SC013185,Fluid Mechanics,"Subramanya, K",0901ME221022,DEVANGANI SINGH
+2023-01-25 16:47:20,SC037101,Programming through C++ (Ranade A G),Ranade A G,0901MC221026,AYUSH JAIN
+2023-01-25 16:47:29,SC037441,Basic Engineering Mathematics (Dass H K),Dass H K,0901MC221026,AYUSH JAIN
+2023-01-25 16:57:24,SC031312,Core Java -I Fundamentalss,"Horstmann , C.S.",0901EC221036,DHRUV GIRI
+2023-01-25 16:57:44,SC023572,C++ Programming Black Book,"Holzner, S.",0901EC221036,DHRUV GIRI
+2023-01-25 16:57:59,SC009683,Data Structures using C and C++,"Langsam, yedidyat",0901EC221036,DHRUV GIRI
+2023-01-25 17:04:22,SC023550,Object Oriented Programming C ++,"Balagurusamy, E.",0901IO221056,PRIYA NARWARE
+2023-01-25 17:04:31,SC005786,Digital Logic Computer Design,"Mano, M M",0901IO221056,PRIYA NARWARE
+2023-01-25 17:04:39,TP001896,Engineering Physics,Malik & Singh,0901IO221056,PRIYA NARWARE
+2023-01-25 17:09:01,SC033337,Fundamentals of Electrical Engineering and Electronics,Theraja B L,0901AU221006,Yash Kushwah
+2023-01-25 17:09:17,SC037321,Basic Engineering Mathematics (Dass H K),Dass H K,0901AU221006,Yash Kushwah
+2023-01-25 17:10:05,SC020020,Object Oriented Programming Using C++,"Chandra , B.",0901AU221006,Yash Kushwah
+2023-01-25 17:10:35,SC033296,Fundamentals of Electrical Engineering and Electronics,Theraja B L,0901AU221003,RISHABH VERMA
+2023-01-25 17:10:42,SC033413,Basic Mechanical Engineering,Rajput R K,0901AU221003,RISHABH VERMA
+2023-01-25 17:10:50,SC033750,Basic Civil Engineering & Engineering Mechanics,Dwivedi K K,0901AU221003,RISHABH VERMA
+2023-01-25 17:13:01,SC037027,Basic Electrical Engineering (Kothari D P),Kothari D P,0901ET221054,RISHABH SIKARWAR

@@ -1,0 +1,84 @@
+returndate,barcode,title,author,cardnumber,surname,cardnumber
+2023-01-06 16:41:51,TP002255,Database System Concepts,Silberschatz A,0901IO211007,ALSABA KHAN,0901IO211007
+2023-01-06 16:41:51,TP002452,Data Communication and Networking,Forouzan B A,0901IO211007,ALSABA KHAN,0901IO211007
+2023-01-06 15:30:58,SC027189,Basic Electrical Engineering,Chaturvedi/ Sahdev,0901EC191020,AMRIT KAUR,0901EC191020
+2023-01-06 15:30:40,SC037409,Basic Engineering Mathematics (Dass H K),Dass H K,0901EE191090,RISHIKA NAMDEO,0901EE191090
+2023-01-06 15:29:13,SC024834,Let Us C,"Kanetkar , Y.",0901EC191045,DEEKSHA SHRIVASTAVA,0901EC191045
+2023-01-06 15:28:37,ST030733,Object Oriented Programming With C++,Balagurusamy E.,0901EC191112,SHRUTI SINGH,0901EC191112
+2023-01-06 15:28:37,ST027512,Data Structures,Lipschutz S.,0901EC191112,SHRUTI SINGH,0901EC191112
+2023-01-06 15:28:37,ST025819,Object Oriented Programming With C++,Balagurusamy E.,0901EC191112,SHRUTI SINGH,0901EC191112
+2023-01-06 15:28:07,SC005499,Data Structure using C and C++,"Langsam, Y",0901EC191086,PRERNA KATORIYA,0901EC191086
+2023-01-06 15:28:07,ST031465,Optical Fiber Communications,Keiser,0901EC191086,PRERNA KATORIYA,0901EC191086
+2023-01-06 15:26:54,SC004832,Management Information Systems,Laudon/ Laudon,0901MB221027,PRACHI GUPTA,0901MB221027
+2023-01-06 15:18:20,TP000105,Chemical Process Principles Part-1,Hougen & Watson,0901CM201042,Yash Tiwari,0901CM201042
+2023-01-06 15:18:20,ST030804,Dryden's Outlines of Chemical Technology,Gopalarao M.,0901CM201042,Yash Tiwari,0901CM201042
+2023-01-06 15:08:03,SC019251,Fundamental Of Engineering Heat & Mass Transfer,Sachdeva R.C.,0901ME201061,Deepesh Rathore,0901ME201061
+2023-01-06 14:43:11,TP001037,Irrigation Engineering & Hydraulic Structure Vol-2,Garg S K,0901CE201110,Chauhan,0901CE201110
+2023-01-06 14:43:11,TP001614,Soil Mechanics and Foundations,Punamia B C,0901CE201110,Chauhan,0901CE201110
+2023-01-06 14:43:11,SC031566,Highway Engineering,Khanna Publication/Justo,0901CE201110,Chauhan,0901CE201110
+2023-01-06 14:43:11,TP003235,Basic Structural Analysis,Reddy C S,0901CE201110,Chauhan,0901CE201110
+2023-01-06 14:41:25,SC019660,Power Plant Engineering,"Nag, P.K",0901ME201057,Chiranjeev Kumar Singh,0901ME201057
+2023-01-06 14:41:25,SC015887,Production and Operations Management,"Chary, S.N.",0901ME201057,Chiranjeev Kumar Singh,0901ME201057
+2023-01-06 14:41:25,ST031199,Strength of Materials,Singh Sadhu,0901ME201057,Chiranjeev Kumar Singh,0901ME201057
+2023-01-06 14:36:48,SC006333,Microprocessors And Interfacing,"Hall, Douglas V.",0901IT201008,Aman Dixit,0901IT201008
+2023-01-06 14:36:48,TP002297,Introduction to Langauages and Theory of Computation,Martin J C,0901IT201008,Aman Dixit,0901IT201008
+2023-01-06 14:09:09,SC023862,Information Security,Whitman/Herbert,0901CS213D05,KRATIKA SHIVHARE,0901CS213D05
+2023-01-06 14:09:09,SC023141,Compiler Design,"Kakde, O.G.",0901CS213D05,KRATIKA SHIVHARE,0901CS213D05
+2023-01-06 14:09:09,SC029379,Artificial Intelligence,"Nilsson, N.J.",0901CS213D05,KRATIKA SHIVHARE,0901CS213D05
+2023-01-06 14:05:15,SC029953,Artificial Intelligence,Rich / Knight,0901CS201064,Kshitij Sharma,0901CS201064
+2023-01-06 14:05:15,TP002466,TCP/IP Protocol Suite,Forouzan B A,0901CS201064,Kshitij Sharma,0901CS201064
+2023-01-06 14:02:24,LG032999,Principles of Soft Computing,Sivanandam & Deepa,0901IT213D02,ADITYA PATEL,0901IT213D02
+2023-01-06 14:02:23,SC029631,Microprocessors and Interfacing,"Hall , D.",0901IT213D02,ADITYA PATEL,0901IT213D02
+2023-01-06 14:02:23,TP002330,Introduction to Langauages and Theory of Computation,Martin J C,0901IT213D02,ADITYA PATEL,0901IT213D02
+2023-01-06 14:02:23,SC010813,Elements of Discrete Mathematics,"Liu, C L",0901IT213D02,ADITYA PATEL,0901IT213D02
+2023-01-06 14:01:35,LG033007,Neural Networks Fuzzy Logic and Genetic Algorithm,Rajsekaran S.,0901IT201028,Jayant Patidar,0901IT201028
+2023-01-06 14:01:35,SC022445,Advanced Microprocessors & Peripheral,Ray/Bhurchandi,0901IT201028,Jayant Patidar,0901IT201028
+2023-01-06 14:00:53,TP001494,RCC Design,Punamia B C,0901CE201103,Chauhan,0901CE201103
+2023-01-06 14:00:53,TP001157,Water Supply Engineering Vol-1,Garg S K,0901CE201103,Chauhan,0901CE201103
+2023-01-06 14:00:34,TP003125,Reinforced Concrete Design,Sinha S N,0901CE201064,Chand,0901CE201064
+2023-01-06 12:54:25,SC017132,Microprocessor,"Pal, Ajit",0901EC201014,Ajmal Khan,0901EC201014
+2023-01-06 12:54:25,TP003619,Engineering Electromagnetics,Hayt W H,0901EC201014,Ajmal Khan,0901EC201014
+2023-01-06 12:54:25,SC029601,Automatic Control Systems,"Kuo, B.C.",0901EC201014,Ajmal Khan,0901EC201014
+2023-01-06 12:54:25,TP005648,Principles of Digital Communication,Galagar R G,0901EC201014,Ajmal Khan,0901EC201014
+2023-01-06 12:54:25,TP004418,Microprocessor The 8086/8088,Bahadure N B,0901EC201014,Ajmal Khan,0901EC201014
+2023-01-06 12:52:53,SC026395,Computer Graphics(Schaum's outline),"Plastock , R.A.",0901CE201085,Rai,0901CE201085
+2023-01-06 12:52:53,SC031387,MATLAB,Bansal/ Goel,0901CE201085,Rai,0901CE201085
+2023-01-06 12:52:18,SC027253,Advance Microprocessors & Interfacing,Badri Ram,0901EC201037,Chetna Gour,0901EC201037
+2023-01-06 12:52:18,TP005106,Nises's Control Systems Engineering,Gupta Rajeev,0901EC201037,Chetna Gour,0901EC201037
+2023-01-06 12:52:18,TP003604,Engineering Electromagnetics,Hayt W H,0901EC201037,Chetna Gour,0901EC201037
+2023-01-06 12:40:20,SC029460,Elements of Chemical Reaction Engineering,"Fogler , H. Scott",0901CM201032,Ritesh Singh Tomar,0901CM201032
+2023-01-06 12:39:57,TP000983,Dryden.s Outlines of Chemical Technology,Rao Gopala,0901CM201030,Ram Sharma,0901CM201030
+2023-01-06 12:39:57,TP003008,Mass Transfer Operation,Treybal R E,0901CM201030,Ram Sharma,0901CM201030
+2023-01-06 12:33:59,SC011914,Data Communication and Networking,"Forouzan, Behray",0901EC201063,Kshitiz Sharma,0901EC201063
+2023-01-06 12:33:59,SC029043,Advanced Microprocessors and Peripheral,"Ray , A.K./Bhurchandi",0901EC201063,Kshitiz Sharma,0901EC201063
+2023-01-06 12:33:59,SC027280,Electromagnetics Waves & Radiating System,"Joran , C.I.",0901EC201063,Kshitiz Sharma,0901EC201063
+2023-01-06 12:32:36,SC028880,Elements of Engineering Electromagnetics,"Rao, N.N.",0901EC201138,Yash Agrawal,0901EC201138
+2023-01-06 12:32:36,SC027145,Linear Control Systems,"Manke ,B.S.",0901EC201138,Yash Agrawal,0901EC201138
+2023-01-06 12:32:36,SC029977,Microprocessor Architecture Prog & App. With 8086,"Gaonkar , R.",0901EC201138,Yash Agrawal,0901EC201138
+2023-01-06 12:32:36,TP002107,Communication Systems : Analog & Digital,Singh/ Sapre S.D.,0901EC201138,Yash Agrawal,0901EC201138
+2023-01-06 12:23:58,TP004638,Electrical Machines -1,Bakshi M V,0901EO201041,Pranjul Jain,0901EO201041
+2023-01-06 12:23:58,SC029930,The Complete Reference AJAX,Powell T.,0901EO201041,Pranjul Jain,0901EO201041
+2023-01-06 12:14:41,SC025051,Theory of Structures,"Khurmi, R.S.",0901CE201006,Kushwah,0901CE201006
+2023-01-06 12:14:41,SC025520,Geotechnical Engineering,"Ramamurthy, T.N.",0901CE201006,Kushwah,0901CE201006
+2023-01-06 12:12:40,TP005922,Electrical & Electronics Measurement & Instrumentation,Sawhney A K,0901EE211131,YASH DWIVEDI,0901EE211131
+2023-01-06 12:12:40,TP005825,Circuit Theory,Chakrabarti,0901EE211131,YASH DWIVEDI,0901EE211131
+2023-01-06 12:12:40,SC031865,Electromagnetic field theory Fundamentals,"Guru , Bhag",0901EE211131,YASH DWIVEDI,0901EE211131
+2023-01-06 12:03:39,SC029519,Internal Combustion Engines,Ferguson colin R.,0901AU211015,SHIVANSH SHIVHARE,0901AU211015
+2023-01-06 12:03:39,LG028100,Fluid mechanics,S. Subramanya,0901AU211015,SHIVANSH SHIVHARE,0901AU211015
+2023-01-06 12:02:56,SC033337,Fundamentals of Electrical Engineering and Electronics,Theraja B L,0901ME221056,SHIV KUMAR OJHA,0901ME221056
+2023-01-06 12:01:04,TP002099,Communication Systems : Analog & Digital,Singh/ Sapre S.D.,0901EC201091,Raj Pahariya,0901EC201091
+2023-01-06 12:01:04,TP003775,Control System Engineering,Nagrath & Gopal,0901EC201091,Raj Pahariya,0901EC201091
+2023-01-06 12:01:04,SC027419,Microprocessor Architecture Programming & Application with the 8085,Gaonkar R.,0901EC201091,Raj Pahariya,0901EC201091
+2023-01-06 11:53:06,SC024982,Linear Control Systems,"Manke, B.S.",0901EC201137,Vivek Sharma,0901EC201137
+2023-01-06 11:53:06,SC013543,Microprocessor Architecture Programming and Applications with 8085,"Gaonkar, R",0901EC201137,Vivek Sharma,0901EC201137
+2023-01-06 11:53:06,TP002104,Communication Systems : Analog & Digital,Singh/ Sapre S.D.,0901EC201137,Vivek Sharma,0901EC201137
+2023-01-06 11:53:06,SC022330,Elements of Electromagnetics,"Sadiku , M.N.O",0901EC201137,Vivek Sharma,0901EC201137
+2023-01-06 11:53:06,SC028881,Elements of Engineering Electromagnetics,"Rao, N.N.",0901EC201137,Vivek Sharma,0901EC201137
+2023-01-06 11:21:00,SC024161,Information Security,"Whitman, M.E.",0901CS201087,Prateek Singh Jadon,0901CS201087
+2023-01-06 11:21:00,TP002495,TCP/IP Protocol Suite,Forouzan B A,0901CS201087,Prateek Singh Jadon,0901CS201087
+2023-01-06 11:21:00,SC023142,Compiler Design,"Kakde, O.G.",0901CS201087,Prateek Singh Jadon,0901CS201087
+2023-01-06 11:21:00,TP002561,Artificial Intelligence,Rich & Knoght,0901CS201087,Prateek Singh Jadon,0901CS201087
+2023-01-06 10:57:03,TP002570,Artificial Intelligence,Rich & Knoght,0901CS201044,Garima Jain,0901CS201044
+2023-01-06 10:57:03,TP002483,TCP/IP Protocol Suite,Forouzan B A,0901CS201044,Garima Jain,0901CS201044
+2023-01-06 10:56:03,TP002499,TCP/IP Protocol Suite,Forouzan B A,0901CS201015,Alka Yadav,0901CS201015
+2023-01-06 10:56:03,TP002574,Artificial Intelligence,Rich & Knoght,0901CS201015,Alka Yadav,0901CS201015
