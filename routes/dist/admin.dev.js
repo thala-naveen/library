@@ -27,7 +27,7 @@ var e = require('express');
 
 router.get('/delete_admin', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('delete from library.admin where adminemail=?', [req.query.adminemail], function (error, result) {
+    pool.query('delete from admin where adminemail=?', [req.query.adminemail], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         req.session.adminmsg = "server error";
@@ -44,7 +44,7 @@ router.post('/add_admin', function (req, res) {
   if (req.session.adminemail) {
     var key = "secret key";
     var encryptedpass = aes256.encrypt(key, req.body.password);
-    pool.query('insert into library.admin(adminemail,adminpassword) values(?,?)', [req.body.adminemail, encryptedpass], function (error, result) {
+    pool.query('insert into admin(adminemail,adminpassword) values(?,?)', [req.body.adminemail, encryptedpass], function (error, result) {
       if (error) {
         if (error.toString().includes('Duplicate')) req.session.adminmsg = "admin already exist";else req.session.adminmsg = "server error";
         res.redirect('/admin/showaddadmin');
@@ -58,7 +58,7 @@ router.post('/add_admin', function (req, res) {
 });
 router.get('/showaddadmin', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.admin', function (error, result) {
+    pool.query('select * from admin', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
       } else {
@@ -74,7 +74,7 @@ router.get('/showaddadmin', function (req, res) {
 });
 router.get('/get_remarked_students', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select count(*) as remarkedstudents from library.userdetails where remark is not null', function (error, result) {
+    pool.query('select count(*) as remarkedstudents from userdetails where remark is not null', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -86,7 +86,7 @@ router.get('/get_remarked_students', function (req, res) {
 });
 router.get('/get_total_Notice', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select count(*) as totalnotice from library.notice', function (error, result) {
+    pool.query('select count(*) as totalnotice from notice', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -98,7 +98,7 @@ router.get('/get_total_Notice', function (req, res) {
 });
 router.get('/get_total_lostbooks', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select sum(loststatus) as lostbooks FROM library.books where loststatus>=1', function (error, result) {
+    pool.query('select sum(loststatus) as lostbooks FROM books where loststatus>=1', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -110,7 +110,7 @@ router.get('/get_total_lostbooks', function (req, res) {
 });
 router.get('/get_total_professors', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select count(*) as totalprofessors from library.userdetails where role="staff"', function (error, result) {
+    pool.query('select count(*) as totalprofessors from userdetails where role="staff"', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -122,7 +122,7 @@ router.get('/get_total_professors', function (req, res) {
 });
 router.get('/get_total_students', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select count(*) as totalstudents from library.userdetails where role="student"', function (error, result) {
+    pool.query('select count(*) as totalstudents from userdetails where role="student"', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -134,7 +134,7 @@ router.get('/get_total_students', function (req, res) {
 });
 router.get('/get_issued_books', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select count(barcode) as issuedbooks from library.issue', function (error, result) {
+    pool.query('select count(barcode) as issuedbooks from issue', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -146,7 +146,7 @@ router.get('/get_issued_books', function (req, res) {
 });
 router.get('/get_total_books', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select count(barcode) as totalbooks from library.books', function (error, result) {
+    pool.query('select count(barcode) as totalbooks from books', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -158,7 +158,7 @@ router.get('/get_total_books', function (req, res) {
 });
 router.get('/delete_branch', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('delete from library.branch where branchid=?', [req.query.branchid], function (error, result) {
+    pool.query('delete from branch where branchid=?', [req.query.branchid], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         req.session.msg = "error";
@@ -175,7 +175,7 @@ router.post('/add_branch', function (req, res) {
   if (req.session.adminemail) {
     var arr = req.body.course.split('#');
     var course = arr[0];
-    pool.query('insert into library.branch(courseid,branchname,branchcode) values(?,?,?)', [course, req.body.branch, req.body.branchcode], function (error, result) {
+    pool.query('insert into branch(courseid,branchname,branchcode) values(?,?,?)', [course, req.body.branch, req.body.branchcode], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         req.session.msg = 'server error';
@@ -190,7 +190,7 @@ router.post('/add_branch', function (req, res) {
 });
 router.get('/getcourse', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.course', function (error, result) {
+    pool.query('select * from course', function (error, result) {
       if (error) {
         res.status(500).json([]);
       } else {
@@ -203,7 +203,7 @@ router.get('/getcourse', function (req, res) {
 });
 router.get('/showaddbranch', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.branch', function (error, result) {
+    pool.query('select * from branch', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         req.session.msg = 'server error';
@@ -224,7 +224,7 @@ router.get('/showaddbranch', function (req, res) {
 });
 router.get('/delete_course', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('delete from library.course where courseid=?', [req.query.courseid], function (error, result) {
+    pool.query('delete from course where courseid=?', [req.query.courseid], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         req.session.msg = "server error";
@@ -239,7 +239,7 @@ router.get('/delete_course', function (req, res) {
 });
 router.post('/add_program', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('insert into library.course(coursename) values(?)', [req.body.program.trim()], function (error, result) {
+    pool.query('insert into course(coursename) values(?)', [req.body.program.trim()], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
       } else {
@@ -252,7 +252,7 @@ router.post('/add_program', function (req, res) {
 });
 router.get('/showaddprogram', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.course', function (error, result) {
+    pool.query('select * from course', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         req.session.msg = 'server error';
@@ -274,7 +274,7 @@ router.get('/showaddprogram', function (req, res) {
 });
 router.post('/add_book_file', upload.single('file'), function (req, res) {
   if (req.session.adminemail) {
-    pool.query('update library.files set filename=? where fileid=3', [req.file.originalname], function (error, result) {
+    pool.query('update files set filename=? where fileid=3', [req.file.originalname], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.redirect('/admin/showaddbooks');
@@ -286,7 +286,7 @@ router.post('/add_book_file', upload.single('file'), function (req, res) {
             csvData.push(data);
           }).on("end", function () {
             csvData.shift();
-            pool.query("insert into library.books(barcode,author,title,volume,publisher,copyright,pages,classificationnumber,language,stockhead,issueinglibrary,subject,price,currency,billdate,billnumber,bookcategory,section,booktype,sourceofpurchase,loststatus) values ?", [csvData], function (error, result) {
+            pool.query("insert into books(barcode,author,title,volume,publisher,copyright,pages,classificationnumber,language,stockhead,issueinglibrary,subject,price,currency,billdate,billnumber,bookcategory,section,booktype,sourceofpurchase,loststatus) values ?", [csvData], function (error, result) {
               if (error) {
                 logger.counsellingLogger.log('error', "".concat(error));
                 res.redirect('/admin/showaddbooks');
@@ -308,7 +308,7 @@ router.post('/add_book_file', upload.single('file'), function (req, res) {
 });
 router.get('/showaddbooks', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.books', function (error, result) {
+    pool.query('select * from books', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
       } else {
@@ -324,7 +324,7 @@ router.get('/showaddbooks', function (req, res) {
 });
 router.get('/search_student', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.userdetails where firstname=?', [req.query.studenten], function (error, result) {
+    pool.query('select * from userdetails where firstname=?', [req.query.studenten], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.render('addremark', {
@@ -355,7 +355,7 @@ router.get('/search_student', function (req, res) {
 });
 router.post('/add_remark', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('update library.userdetails set remark=? where firstname=?', [req.body.remark, req.body.studentcard], function (error, result) {
+    pool.query('update userdetails set remark=? where firstname=?', [req.body.remark, req.body.studentcard], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.redirect('/admin/showaddremark');
@@ -409,7 +409,7 @@ router.post('/add_remark', function (req, res) {
 });
 router.get('/delete_remark', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('update library.userdetails set remark=NULL where firstname=?', [req.query.en], function (error, result) {
+    pool.query('update userdetails set remark=NULL where firstname=?', [req.query.en], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.redirect('/admin/showaddremark');
@@ -422,7 +422,7 @@ router.get('/delete_remark', function (req, res) {
 });
 router.get('/showaddremark', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.userdetails where remark is not null', function (error, result) {
+    pool.query('select * from userdetails where remark is not null', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.render('addremark', {
@@ -451,7 +451,7 @@ router.get('/showaddremark', function (req, res) {
 });
 router.get('/delete_notice', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('delete from library.notice where noticeid=?', [req.query.noticeid], function (error, result) {
+    pool.query('delete from notice where noticeid=?', [req.query.noticeid], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.redirect('/admin/showaddnotice');
@@ -464,7 +464,7 @@ router.get('/delete_notice', function (req, res) {
 });
 router.get('/get_all_notice', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.notice', function (error, result) {
+    pool.query('select * from notice', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.status(500).json([]);
@@ -478,7 +478,7 @@ router.get('/get_all_notice', function (req, res) {
 });
 router.post('/addnotice', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('insert into library.notice(notice) values(?)', [req.body.notice], function (error, result) {
+    pool.query('insert into notice(notice) values(?)', [req.body.notice], function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.render('addnotice', {
@@ -495,7 +495,7 @@ router.post('/addnotice', function (req, res) {
 });
 router.get('/showaddnotice', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.notice', function (error, result) {
+    pool.query('select * from notice', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
         res.redirect('/admin/showaddnotice');
@@ -514,7 +514,7 @@ router.get('/showaddnotice', function (req, res) {
 router.post('/add_issue_file', upload.single("file"), function (req, res) {
   if (req.session.adminemail) {
     if (req.body.issue == "upload") {
-      pool.query('update library.files set filename=? where fileid=1', [req.file.originalname], function (error, result) {
+      pool.query('update files set filename=? where fileid=1', [req.file.originalname], function (error, result) {
         if (error) {
           logger.counsellingLogger.log('error', "".concat(error));
           res.redirect('/admin/showaddfiles');
@@ -526,7 +526,7 @@ router.post('/add_issue_file', upload.single("file"), function (req, res) {
               csvData.push(data);
             }).on("end", function () {
               csvData.shift();
-              pool.query("insert into library.issue(issuedate,barcode,title,author,cardnumber,surname) values ?", [csvData], function (error, result) {
+              pool.query("insert into issue(issuedate,barcode,title,author,cardnumber,surname) values ?", [csvData], function (error, result) {
                 if (error) {
                   logger.counsellingLogger.log('error', "".concat(error));
                   req.session.duplicateIssueError = error.toString();
@@ -546,7 +546,7 @@ router.post('/add_issue_file', upload.single("file"), function (req, res) {
         }
       });
     } else if (req.body.issue == "remove") {
-      pool.query('select filename from library.files where fileid=1', function (error, result) {
+      pool.query('select filename from files where fileid=1', function (error, result) {
         if (error) {
           logger.counsellingLogger.log('error', "".concat(error));
           res.render('addfiles', {
@@ -557,7 +557,7 @@ router.post('/add_issue_file', upload.single("file"), function (req, res) {
         } else {
           try {
             fs.unlinkSync("public/files/".concat(result[0].filename));
-            pool.query('truncate library.issue', function (error, result) {
+            pool.query('truncate issue', function (error, result) {
               if (error) {
                 logger.counsellingLogger.log('error', "".concat(error));
                 res.render('addfiles', {
@@ -589,7 +589,7 @@ router.post('/add_issue_file', upload.single("file"), function (req, res) {
 router.post('/add_return_file', upload.single('file'), function (req, res) {
   if (req.session.adminemail) {
     if (req.body["return"] == "upload") {
-      pool.query('update library.files set filename=? where fileid=2', [req.file.originalname], function (error, result) {
+      pool.query('update files set filename=? where fileid=2', [req.file.originalname], function (error, result) {
         if (error) {
           logger.counsellingLogger.log('error', "".concat(error));
           res.redirect('/admin/showaddfiles');
@@ -601,12 +601,12 @@ router.post('/add_return_file', upload.single('file'), function (req, res) {
               csvData.push(data);
             }).on("end", function () {
               csvData.shift();
-              pool.query("insert into library.return(returndate,barcode,title,author,cardnumber,surname,extracol) values ?", [csvData], function (error, result) {
+              pool.query("insert into return(returndate,barcode,title,author,cardnumber,surname,extracol) values ?", [csvData], function (error, result) {
                 if (error) {
                   logger.counsellingLogger.log('error', "".concat(error));
                   res.redirect('/');
                 } else {
-                  pool.query('delete from library.issue where barcode in (SELECT barcode FROM library.return) and cardnumber in (select cardnumber from library.return)', function (error, result) {
+                  pool.query('delete from issue where barcode in (SELECT barcode FROM return) and cardnumber in (select cardnumber from return)', function (error, result) {
                     if (error) {
                       logger.counsellingLogger.log('error', "".concat(error));
                       res.redirect('/');
@@ -626,7 +626,7 @@ router.post('/add_return_file', upload.single('file'), function (req, res) {
         }
       });
     } else if (req.body["return"] == "remove") {
-      pool.query('select filename from library.files where fileid=2', function (error, result) {
+      pool.query('select filename from files where fileid=2', function (error, result) {
         if (error) {
           logger.counsellingLogger.log('error', "".concat(error));
           res.render('addfiles', {
@@ -637,12 +637,12 @@ router.post('/add_return_file', upload.single('file'), function (req, res) {
         } else {
           try {
             fs.unlinkSync("public/files/".concat(result[0].filename));
-            pool.query('INSERT INTO library.returnmain SELECT returndate,barcode,title,author,cardnumber,surname,extracol FROM library.return', function (error, result) {
+            pool.query('INSERT INTO returnmain SELECT returndate,barcode,title,author,cardnumber,surname,extracol FROM return', function (error, result) {
               if (error) {
                 logger.counsellingLogger.log('error', "".concat(error));
                 res.redirect('/');
               } else {
-                pool.query('truncate library.return', function (error, result) {
+                pool.query('truncate return', function (error, result) {
                   if (error) {
                     logger.counsellingLogger.log('error', "".concat(error));
                     res.render('addfiles', {
@@ -651,7 +651,7 @@ router.post('/add_return_file', upload.single('file'), function (req, res) {
                       returnmsg: 'server error'
                     });
                   } else {
-                    /*pool.query('update library.files set filename="" where fileid=1',function(error,result){
+                    /*pool.query('update files set filename="" where fileid=1',function(error,result){
                                       })*/
                     logger.counsellingLogger.log('info', "".concat(req.session.ip, " admin ").concat(req.session.adminemail, " removed return file"));
                     req.session.returnmsg = "file removed";
@@ -670,7 +670,7 @@ router.post('/add_return_file', upload.single('file'), function (req, res) {
         }
       });
     } else if (req.body["return"] == "removemain") {
-      pool.query('truncate library.returnmain', function (error, result) {
+      pool.query('truncate returnmain', function (error, result) {
         if (error) {
           logger.counsellingLogger.log('error', "".concat(error));
         } else {
@@ -701,7 +701,7 @@ router.get('/showaddfiles', function (req, res) {
 });
 router.get('/showusers', function (req, res) {
   if (req.session.adminemail) {
-    pool.query('select * from library.userdetails', function (error, result) {
+    pool.query('select * from userdetails', function (error, result) {
       if (error) {
         logger.counsellingLogger.log('error', "".concat(error));
       } else {

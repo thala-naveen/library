@@ -35,7 +35,7 @@ router.get('/aboutus',limiter,function(req,res){
 router.get('/search_by_subject',function(req,res){
   if(req.session.data || req.session.passport)
   {
-      pool.query('select distinct title,author,subject,publisher,classificationnumber,language,volume from library.books where subject like "%'+req.query.subject+'%" or title like "%'+req.query.subject+'%" or publisher like "%'+req.query.subject+'%" or author like "%'+req.query.subject+'%"',function(error,result){
+      pool.query('select distinct title,author,subject,publisher,classificationnumber,language,volume from books where subject like "%'+req.query.subject+'%" or title like "%'+req.query.subject+'%" or publisher like "%'+req.query.subject+'%" or author like "%'+req.query.subject+'%"',function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`)
@@ -67,7 +67,7 @@ router.get('/showsearchbook',function(req,res){
 router.get('/get_notice_for_users',function(req,res){
   if(req.session.data || req.session.passport)
   {
-      pool.query('select * from library.notice order by noticeid desc',function(error,result){
+      pool.query('select * from notice order by noticeid desc',function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`)
@@ -98,7 +98,7 @@ router.get('/showreturnhistory',function(req,res){
 router.get('/get_return_history',function(req,res){
   if(req.session.data || req.session.passport)
   {
-      pool.query('select * from library.returnmain where cardnumber=?',[req.query.cardnumber],function(error,result){
+      pool.query('select * from returnmain where cardnumber=?',[req.query.cardnumber],function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`)
@@ -115,7 +115,7 @@ router.get('/get_return_history',function(req,res){
 router.get('/get_issued_books',function(req,res){
   if(req.session.data || req.session.passport)
   {
-      pool.query('select * from library.issue where cardnumber=?',[req.query.cardnumber],function(error,result){
+      pool.query('select * from issue where cardnumber=?',[req.query.cardnumber],function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`)
@@ -134,7 +134,7 @@ router.post('/showuserprofile',function(req,res){
   if(req.session.data || req.session.passport)
   {
     
-      pool.query('select * from library.userdetails where mailid=?',[req.body.showuserprofile],function(error,result){
+      pool.query('select * from userdetails where mailid=?',[req.body.showuserprofile],function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`)
@@ -161,7 +161,7 @@ router.post('/showuserprofile',function(req,res){
 })
 
 router.post('/checkuser',function(req,res){
-      pool.query('select * from library.userdetails where mailid=?',[req.body.userid],function(error,result){
+      pool.query('select * from userdetails where mailid=?',[req.body.userid],function(error,result){
         if(error)
         {
             logger.counsellingLogger.log('error',`${error}`)
@@ -247,7 +247,7 @@ router.post('/adduser',upload.single('profilepicture'),function(req,res){
       const hashedpass = bcrypt.hashSync(req.body.password, saltRounds);
 
       req.session.usernameip = req.body.useremailid
-      pool.query('insert into library.userdetails (mailid,firstname,lastname,address,password,state,city,course,branch,userprofile,dob,semester,role) values(?,?,?,?,?,?,?,?,?,?,?,?,?)',[
+      pool.query('insert into userdetails (mailid,firstname,lastname,address,password,state,city,course,branch,userprofile,dob,semester,role) values(?,?,?,?,?,?,?,?,?,?,?,?,?)',[
           req.body.useremailid,
           req.body.firstname,
           req.body.secondname,
@@ -271,7 +271,7 @@ router.post('/adduser',upload.single('profilepicture'),function(req,res){
         {   req.session.ip1=req.body.userip
             req.session.loguser=req.body.firstname
              logger.counsellingLogger.log('info',`${req.body.userip} ${req.body.useremailid} ${req.body.firstname} ${req.body.secondname}  signed up successfully`)
-           pool.query('select * from library.userdetails where mailid=?',[req.user.email],function(error,result){
+           pool.query('select * from userdetails where mailid=?',[req.user.email],function(error,result){
               if(error)
               {
                 logger.counsellingLogger.log('error',`${error}`)
@@ -418,7 +418,7 @@ router.post('/adduser',upload.single('profilepicture'),function(req,res){
                   <td align="left" class="es-m-p0r es-m-p0l" style="Margin:0;padding-top:10px;padding-bottom:10px;padding-left:40px;padding-right:40px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">Dear ${req.body.useremailid}&nbsp;</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">You have successfully signed up for Library MITS.</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px"><br></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">The issue status and return history will&nbsp;</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">be shown from 6th Jan 2023.</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px"><br></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">You can also check the availability for a book.</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px"><br></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">Regards,</p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">SOFTWARE DEVELOPMENT CLUB <br></p><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:27px;color:#223E3E;font-size:18px">MITS GWALIOR&nbsp;</p></td>
                   </tr>
                   <tr>
-                  <td align="center" style="padding:0;Margin:0;padding-top:20px"><span class="es-button-border" style="border-style:solid;border-color:#2CB543;background:#588b8b;border-width:0px;display:inline-block;border-radius:0px;width:auto;mso-border-alt:10px"><a href="http://library.mitsgwalior.in:4241/" class="es-button es-button-1631175539112" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:18px;display:inline-block;background:#588b8b;border-radius:0px;font-family:Montserrat, sans-serif;font-weight:bold;font-style:normal;line-height:22px;width:auto;text-align:center;padding:15px 45px;border-color:#588b8b">Go To Library MITS</a></span></td>
+                  <td align="center" style="padding:0;Margin:0;padding-top:20px"><span class="es-button-border" style="border-style:solid;border-color:#2CB543;background:#588b8b;border-width:0px;display:inline-block;border-radius:0px;width:auto;mso-border-alt:10px"><a href="http://mitsgwalior.in:4241/" class="es-button es-button-1631175539112" target="_blank" style="mso-style-priority:100 !important;text-decoration:none;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;color:#FFFFFF;font-size:18px;display:inline-block;background:#588b8b;border-radius:0px;font-family:Montserrat, sans-serif;font-weight:bold;font-style:normal;line-height:22px;width:auto;text-align:center;padding:15px 45px;border-color:#588b8b">Go To Library MITS</a></span></td>
                   </tr>
                   <tr>
                   <td align="center" style="Margin:0;padding-bottom:5px;padding-top:20px;padding-left:20px;padding-right:20px;font-size:0">
@@ -439,7 +439,7 @@ router.post('/adduser',upload.single('profilepicture'),function(req,res){
                   <td class="es-m-p0r es-m-p20b" align="center" style="padding:0;Margin:0;width:170px">
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                   <tr>
-                  <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="http://library.mitsgwalior.in:4241/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#223E3E;font-size:14px"><img src="https://mnhyyg.stripocdn.email/content/guids/CABINET_f065e32f7fc1208f44642e067d64d1a2/images/54761631177511851.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" height="80"></a></td>
+                  <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="http://mitsgwalior.in:4241/" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#223E3E;font-size:14px"><img src="https://mnhyyg.stripocdn.email/content/guids/CABINET_f065e32f7fc1208f44642e067d64d1a2/images/54761631177511851.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" height="80"></a></td>
                   </tr>
                   <tr>
                   <td align="center" style="padding:0;Margin:0;padding-top:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:24px;color:#223E3E;font-size:16px"><a target="_blank" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#223e3e;font-size:16px" href="https://viewstripo.email">Our library</a></p></td>
@@ -466,7 +466,7 @@ router.post('/adduser',upload.single('profilepicture'),function(req,res){
                   <td class="es-m-p0r" align="center" style="padding:0;Margin:0;width:171px">
                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                   <tr>
-                  <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="http://library.mitsgwalior.in:4241/aboutus" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#223E3E;font-size:14px"><img src="https://mnhyyg.stripocdn.email/content/guids/CABINET_f065e32f7fc1208f44642e067d64d1a2/images/61551631177512631.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" height="80"></a></td>
+                  <td align="center" style="padding:0;Margin:0;font-size:0px"><a target="_blank" href="http://mitsgwalior.in:4241/aboutus" style="-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;text-decoration:underline;color:#223E3E;font-size:14px"><img src="https://mnhyyg.stripocdn.email/content/guids/CABINET_f065e32f7fc1208f44642e067d64d1a2/images/61551631177512631.png" alt style="display:block;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic" height="80"></a></td>
                   </tr>
                   <tr>
                   <td align="center" style="padding:0;Margin:0;padding-top:10px"><p style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Montserrat, sans-serif;line-height:24px;color:#223E3E;font-size:16px">Web Dev Team</p></td>
@@ -548,7 +548,7 @@ router.post('/adduser',upload.single('profilepicture'),function(req,res){
 router.get('/getbranch',function(req,res){
   if(req.session.passport.user)
   {
-    pool.query('select * from library.branch where courseid=?',[req.query.courseid],function(error,result){
+    pool.query('select * from branch where courseid=?',[req.query.courseid],function(error,result){
       if(error)
       {
         res.status(500).json([])
@@ -568,7 +568,7 @@ router.get('/getbranch',function(req,res){
 router.get('/getcourse',function(req,res){
   if(req.session.passport.user)
   {
-    pool.query('select * from library.course',function(error,result){
+    pool.query('select * from course',function(error,result){
       if(error)
       {
         res.status(500).json([])
@@ -628,7 +628,7 @@ router.get('/protected', isLoggedIn, (req, res) => {
   let states = State.getStatesOfCountry("IN")
       if(req.user._json.domain=="mitsgwl.ac.in")
         {
-           pool.query('select * from library.userdetails where mailid=?',[req.user.email],function(error,result){
+           pool.query('select * from userdetails where mailid=?',[req.user.email],function(error,result){
               if(error)
               {
                 logger.counsellingLogger.log('error',`${error}`)
@@ -653,7 +653,7 @@ router.get('/protected', isLoggedIn, (req, res) => {
         }
         else if(req.user._json.domain=="mitsgwalior.in")
         {
-          pool.query('select * from library.userdetails where mailid=?',[req.user.email],function(error,result){
+          pool.query('select * from userdetails where mailid=?',[req.user.email],function(error,result){
             if(error)
             {
               logger.counsellingLogger.log('error',`${error}`)
